@@ -1,41 +1,41 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **24.10.2026 18:24** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 586
+Posledny snimok: **24.10.2026 18:55** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 616
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 118 | 2.1 | 0.0 | 14 % | 6 % | 1 |
+| 124 | 2.5 | 0.0 | 14 % | 8 % | 4 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| SC 240 PENDOLINO KOŠIČAN Košice -> Praha jih | 20 min | Budatín odb. | Železničná spoločnosť Slovensko, a.s. |
-| Os 3129 | 18 min | Myjava | Železničná spoločnosť Slovensko, a.s. |
-| Ex 621 TATRAN | 17 min | Markušovce | Železničná spoločnosť Slovensko, a.s. |
-| Ex 629 TATRAN | 15 min | Veľké Kostoľany | Železničná spoločnosť Slovensko, a.s. |
-| R 10725 POVAŽAN | 12 min | Bytča | Železničná spoločnosť Slovensko, a.s. |
-| R 842 URPÍN | 11 min | Levice | Železničná spoločnosť Slovensko, a.s. |
-| Os 7827 | 11 min | Malá Lodina | Železničná spoločnosť Slovensko, a.s. |
-| Os 2722  Myjava -> Velká nad Veličkou | 10 min | Vrbovce št. hr. | ARRIVA vlaky s.r.o. |
-| Ex 526 KRIVÁŇ | 9 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
-| EC 281 METROPOLITAN Praha jih -> Budapest-Nyugati | 8 min | Odb. Močiar | Železničná spoločnosť Slovensko, a.s. |
+| Os 7826 | 30 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
+| Ex 526 KRIVÁŇ | 29 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
+| Os 3129 | 23 min | Vaďovce | Železničná spoločnosť Slovensko, a.s. |
+| Ex 621 TATRAN | 19 min | Malá Lodina | Železničná spoločnosť Slovensko, a.s. |
+| SC 240 PENDOLINO KOŠIČAN Košice -> Praha jih | 13 min | Čadca št. hr. | České dráhy, a.s. |
+| R 842 URPÍN | 13 min | Podhájska | Železničná spoločnosť Slovensko, a.s. |
+| EC 1253 LEO EXPRESS Praha hl.n. -> Prešov | 13 min | Markušovce | Leo Express s.r.o. |
+| Os 5227 | 12 min | Podhájska | Železničná spoločnosť Slovensko, a.s. |
+| Ex 629 TATRAN | 11 min | Trenčianska Teplá | Železničná spoločnosť Slovensko, a.s. |
+| Os 5226 | 11 min | Šurany | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
-| railjet | 1254 | 10.3 | 73 % | 40 % |
-| SC | 472 | 10.2 | 53 % | 43 % |
-| RJ | 1056 | 7.4 | 47 % | 21 % |
+| SC | 502 | 10.5 | 56 % | 46 % |
+| railjet | 1313 | 9.9 | 70 % | 38 % |
+| RJ | 1116 | 7.0 | 45 % | 20 % |
 | Zr | 70 | 5.2 | 41 % | 41 % |
-| REX | 7020 | 5.1 | 25 % | 15 % |
-| Ex | 7183 | 5.0 | 39 % | 17 % |
-| EC | 2109 | 4.9 | 26 % | 11 % |
-| R | 11086 | 4.6 | 22 % | 13 % |
-| Os | 41888 | 2.5 | 16 % | 8 % |
+| Ex | 7543 | 5.0 | 39 % | 17 % |
+| REX | 7318 | 4.9 | 24 % | 15 % |
+| EC | 2229 | 4.7 | 26 % | 11 % |
+| R | 11660 | 4.5 | 21 % | 13 % |
+| Os | 44150 | 2.5 | 16 % | 7 % |
 | EN | 117 | 2.2 | 0 % | 0 % |
 
 ## Podla dopravcu
@@ -44,16 +44,16 @@ Posledny snimok: **24.10.2026 18:24** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|---|---|
 | Ukrajinské železnice - P | 10 | 76.0 | 100 % | 100 % |
 | Ukrajinské železnice - C | 8 | 25.0 | 100 % | 100 % |
-| České dráhy, a.s. | 143 | 8.6 | 47 % | 33 % |
-| RegioJet a. s. | 1106 | 6.4 | 44 % | 19 % |
-| MÁV-Start Zrt. | 128 | 6.3 | 45 % | 34 % |
-| ARRIVA vlaky s.r.o. | 122 | 6.0 | 34 % | 31 % |
+| České dráhy, a.s. | 152 | 8.9 | 50 % | 37 % |
+| ARRIVA vlaky s.r.o. | 143 | 6.6 | 44 % | 27 % |
+| RegioJet a. s. | 1166 | 6.2 | 42 % | 18 % |
+| MÁV-Start Zrt. | 141 | 5.7 | 40 % | 31 % |
 | RegioJet a.s. | 38 | 5.6 | 47 % | 24 % |
-| Železničná spoločnosť Slovensko, a.s. | 67617 | 3.7 | 22 % | 11 % |
+| Železničná spoločnosť Slovensko, a.s. | 71092 | 3.6 | 22 % | 11 % |
 | Österreichische Bundesbahnen Personenver | 116 | 1.5 | 6 % | 0 % |
-| Leo Express Slovensko s.r.o. | 2491 | 1.4 | 8 % | 4 % |
+| Leo Express Slovensko s.r.o. | 2616 | 1.4 | 7 % | 4 % |
 | Przewozy Regionalne Sp. z o.o. | 95 | 0.4 | 0 % | 0 % |
-| Leo Express s.r.o. | 381 | -0.1 | 18 % | 2 % |
+| Leo Express s.r.o. | 441 | -0.6 | 17 % | 2 % |
 
 ## Podla hodiny dna
 
@@ -136,23 +136,22 @@ Posledny snimok: **24.10.2026 18:24** (Europe/Bratislava), obdobie: poslednych 2
 | Vlak | Od | Do |
 |---|---|---|
 | Os 6628 | Utekáč | Poltár |
-
-Vlaky s NAD v celej trase: Os 6126
+| Os 6631 | Poltár | Utekáč |
 
 ## Najviac vlakov pri jednej stanici (teraz)
 
 | Stanica | Vlakov |
 |---|---|
-| Prešov | 3 |
-| Budatín odb. | 2 |
-| Spišské Vlachy | 2 |
-| Trenčín | 2 |
-| Svit | 2 |
-| Bratislava hlavná stanica | 2 |
-| Alekšince | 2 |
-| Levice | 2 |
-| Sládkovičovo | 2 |
-| Lučenec | 2 |
+| Bratislava hlavná stanica | 4 |
+| Kúty | 4 |
+| Spišské Vlachy | 3 |
+| Čadca št. hr. | 2 |
+| Veľké Kostoľany | 2 |
+| Vydrník | 2 |
+| Vrútky | 2 |
+| Trnava | 2 |
+| Podhájska | 2 |
+| Sliač kúpele | 2 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -160,16 +159,15 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
+| RJ 1223 REGIOJET Čop UA -> Košice | 119 | 0 |
 | Os 8123 | 119 | 0 |
-| RJ 1223 REGIOJET Čop UA -> Košice | 90 | 0 |
-| Os 2426 | 78 | 0 |
-| Os 3227 | 73 | 0 |
-| Os 5927 | 60 | 0 |
-| EC 120 VALAŠSKÝ EXPRES Púchov -> Praha jih | 38 | 0 |
-| Os 3129 | 27 | 18 |
-| Os 9029 | 27 | 2 |
-| Os 6784 | 23 | 0 |
-| Os 8228 | 23 | 0 |
-| Os 4089 | 21 | 0 |
-| Os 8128 | 21 | 0 |
-| Os 4729 | 20 | 8 |
+| Os 2426 | 108 | 0 |
+| Os 3227 | 103 | 0 |
+| Ex 526 KRIVÁŇ | 39 | 29 |
+| Os 7826 | 30 | 30 |
+| Os 9228 | 29 | 0 |
+| Os 6787 | 28 | 0 |
+| Os 4089 | 26 | 0 |
+| Os 3529 | 23 | 0 |
+| Os 5226 | 20 | 11 |
+| Os 5227 | 20 | 12 |
