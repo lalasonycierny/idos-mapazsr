@@ -21,7 +21,7 @@ python zsr_monitor.py collect                 # jeden snímok
 python zsr_monitor.py run --interval 60       # zber každú minútu + upozornenia
 python zsr_monitor.py run --interval 60 --publish-every 30   # + každých 30 min push na GitHub
 python zsr_monitor.py report --hours 24       # docs/report.md
-python zsr_monitor.py map [--routes]          # docs/index.html
+python zsr_monitor.py map [--routes]          # docs/index.html (mapa + grafy + odkaz na report)
 python zsr_monitor.py publish                 # report + mapa + git commit + push
 ```
 
