@@ -1,0 +1,7 @@
+# NIKDY necommituj: databazu, tajomstva, cookies
+*.db
+*.db-journal
+.env
+__pycache__/
+*.pyc
+.venv/
