@@ -1,42 +1,43 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **24.10.2026 20:55** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 736
+Posledny snimok: **24.10.2026 21:26** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 766
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 114 | 3.4 | 0.0 | 14 % | 8 % | 2 |
+| 106 | 4.1 | 0.0 | 19 % | 11 % | 4 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| railjet 175 HUNGARIA Hamburg-Altona DE -> Budapest-Nyugati | 98 min | Sekule | Železničná spoločnosť Slovensko, a.s. |
-| Ex 526 KRIVÁŇ | 38 min | Vrútky | Železničná spoločnosť Slovensko, a.s. |
-| Ex 628 TATRAN | 36 min | Liptovský Mikuláš | Železničná spoločnosť Slovensko, a.s. |
-| Os 7854 | 34 min | Kráľova Lehota | Železničná spoločnosť Slovensko, a.s. |
-| Os 7835 | 19 min | Svit | Železničná spoločnosť Slovensko, a.s. |
-| Ex 624 TATRAN | 17 min | Výh. Potvorice | Železničná spoločnosť Slovensko, a.s. |
-| Os 7830 | 16 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
-| Os 3133 | 15 min | Vaďovce | Železničná spoločnosť Slovensko, a.s. |
-| EN 476 METROPOL Budapest-Nyugati -> Břeclav | 14 min | Mužla | Železničná spoločnosť Slovensko, a.s. |
-| Os 8333 | 9 min | Poprad-Tatry | Železničná spoločnosť Slovensko, a.s. |
+| railjet 175 HUNGARIA Hamburg-Altona DE -> Budapest-Nyugati | 107 min | Malacky | Železničná spoločnosť Slovensko, a.s. |
+| Ex 526 KRIVÁŇ | 38 min | Výh. Plevník-Drienové | Železničná spoločnosť Slovensko, a.s. |
+| Ex 628 TATRAN | 32 min | Kraľovany | Železničná spoločnosť Slovensko, a.s. |
+| R 947 FATRAN | 30 min | Vrútky | Železničná spoločnosť Slovensko, a.s. |
+| Os 7830 | 22 min | Vydrník | Železničná spoločnosť Slovensko, a.s. |
+| Ex 624 TATRAN | 18 min | Trnava | Železničná spoločnosť Slovensko, a.s. |
+| Os 7835 | 18 min | Vydrník | Železničná spoločnosť Slovensko, a.s. |
+| Ex 642 TATRAN | 15 min | Spišská Nová Ves | Železničná spoločnosť Slovensko, a.s. |
+| REX 1764 | 15 min | Košice | Železničná spoločnosť Slovensko, a.s. |
+| EN 476 METROPOL Budapest-Nyugati -> Břeclav | 14 min | Palárikovo | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
+| railjet | 1496 | 11.6 | 65 % | 36 % |
 | SC | 504 | 10.5 | 56 % | 46 % |
-| railjet | 1453 | 9.9 | 65 % | 35 % |
-| RJ | 1461 | 6.2 | 42 % | 16 % |
-| Ex | 8868 | 5.8 | 40 % | 20 % |
-| EC | 2542 | 5.5 | 29 % | 13 % |
+| RJ | 1548 | 6.1 | 41 % | 16 % |
+| Ex | 9129 | 5.9 | 40 % | 20 % |
+| EC | 2626 | 5.3 | 28 % | 13 % |
 | Zr | 70 | 5.2 | 41 % | 41 % |
-| REX | 8600 | 4.3 | 21 % | 13 % |
-| R | 13780 | 4.1 | 20 % | 11 % |
-| Os | 52889 | 2.4 | 15 % | 7 % |
-| EN | 234 | 1.1 | 3 % | 3 % |
+| REX | 8930 | 4.2 | 20 % | 12 % |
+| R | 14156 | 4.1 | 20 % | 11 % |
+| Os | 54846 | 2.4 | 15 % | 7 % |
+| EN | 292 | 1.8 | 12 % | 12 % |
+| rjx | 9 | 0.0 | 0 % | 0 % |
 
 ## Podla dopravcu
 
@@ -44,15 +45,15 @@ Posledny snimok: **24.10.2026 20:55** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|---|---|
 | Ukrajinské železnice - P | 10 | 76.0 | 100 % | 100 % |
 | Ukrajinské železnice - C | 16 | 18.0 | 100 % | 100 % |
-| České dráhy, a.s. | 172 | 9.0 | 51 % | 40 % |
+| České dráhy, a.s. | 193 | 8.5 | 46 % | 35 % |
 | ARRIVA vlaky s.r.o. | 169 | 6.1 | 37 % | 22 % |
 | RegioJet a.s. | 38 | 5.6 | 47 % | 24 % |
-| RegioJet a. s. | 1511 | 5.5 | 40 % | 14 % |
-| MÁV-Start Zrt. | 153 | 5.5 | 41 % | 29 % |
-| Leo Express s.r.o. | 600 | 4.5 | 27 % | 16 % |
-| Železničná spoločnosť Slovensko, a.s. | 84304 | 3.5 | 21 % | 11 % |
-| Österreichische Bundesbahnen Personenver | 141 | 1.6 | 9 % | 0 % |
-| Leo Express Slovensko s.r.o. | 3173 | 1.3 | 6 % | 3 % |
+| RegioJet a. s. | 1598 | 5.5 | 39 % | 14 % |
+| MÁV-Start Zrt. | 160 | 5.3 | 39 % | 28 % |
+| Leo Express s.r.o. | 629 | 4.2 | 26 % | 16 % |
+| Železničná spoločnosť Slovensko, a.s. | 87206 | 3.5 | 21 % | 11 % |
+| Österreichische Bundesbahnen Personenver | 147 | 1.6 | 8 % | 0 % |
+| Leo Express Slovensko s.r.o. | 3326 | 1.2 | 6 % | 3 % |
 | Przewozy Regionalne Sp. z o.o. | 114 | 1.0 | 0 % | 0 % |
 
 ## Podla hodiny dna
@@ -72,12 +73,13 @@ Posledny snimok: **24.10.2026 20:55** (Europe/Bratislava), obdobie: poslednych 2
 | 18:00 | 2.1 | 14 % |
 | 19:00 | 3.0 | 17 % |
 | 20:00 | 2.9 | 16 % |
+| 21:00 | 3.9 | 16 % |
 
 ## Najvacsie meskania v obdobi
 
 | Vlak | Max meskanie | Pozorovani |
 |---|---|---|
-| railjet 175 HUNGARIA Hamburg-Altona DE -> Budapest-Nyugati | 100 min | 9 |
+| railjet 175 HUNGARIA Hamburg-Altona DE -> Budapest-Nyugati | 107 min | 38 |
 | R 961 ZAKARPATIA Čop UA -> Košice | 89 min | 245 |
 | RJ 1222 REGIOJET Košice -> Čop UA | 76 min | 133 |
 | Os 3113 | 68 min | 147 |
@@ -100,8 +102,8 @@ Posledny snimok: **24.10.2026 20:55** (Europe/Bratislava), obdobie: poslednych 2
 | Os 7818 | 0 | 42 | +42 |
 | R 10719 POVAŽAN | 0 | 41 | +41 |
 | Ex 526 KRIVÁŇ | 0 | 38 | +38 |
-| Ex 628 TATRAN | 0 | 36 | +36 |
-| Os 7854 | 0 | 34 | +34 |
+| R 10716 POVAŽAN | 0 | 34 | +34 |
+| R 963 ZAKARPATIA Mukačevo UA -> Košice | 0 | 34 | +34 |
 
 ### Vlaky, ktore meskanie najviac dobehli
 
@@ -143,16 +145,16 @@ Posledny snimok: **24.10.2026 20:55** (Europe/Bratislava), obdobie: poslednych 2
 
 | Stanica | Vlakov |
 |---|---|
-| Čadca | 3 |
-| Sekule | 2 |
+| Košice | 3 |
+| Kúty | 3 |
+| Malacky | 2 |
+| Kraľovany | 2 |
+| Výh. Paludza | 2 |
 | Vrútky | 2 |
-| Kráľova Lehota | 2 |
-| Spišské Vlachy | 2 |
-| Trnava | 2 |
-| Topoľčany | 2 |
-| Šurany | 2 |
-| Žilina | 2 |
-| Kostoľany nad Hornádom | 2 |
+| Leopoldov | 2 |
+| Zvolen osobná stanica | 2 |
+| Vydrník | 2 |
+| Veľký Slavkov | 2 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -160,14 +162,16 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
-| Os 2426 | 119 | 0 |
-| Os 8123 | 119 | 0 |
-| Os 2430 | 108 | 0 |
-| Os 8932 | 33 | 0 |
-| R 965 ZAKARPATIA Mukačevo UA -> Košice | 32 | 5 |
-| Os 7835 | 30 | 19 |
-| Os 9232 | 30 | 0 |
-| Os 7830 | 27 | 16 |
-| Os 8234 | 24 | 0 |
-| Os 5230 | 23 | 0 |
-| Os 9433 | 23 | 0 |
+| Os 2426 | 120 | 0 |
+| Os 2430 | 120 | 0 |
+| Os 8123 | 120 | 0 |
+| R 965 ZAKARPATIA Mukačevo UA -> Košice | 62 | 5 |
+| EN 442 SLOVAKIA Humenné -> Praha jih | 30 | -5 |
+| Os 8134 | 27 | 0 |
+| Os 8933 | 27 | 0 |
+| Os 4034 | 24 | 1 |
+| Os 9233 | 24 | 1 |
+| Os 8234 | 23 | 0 |
+| Os 9232 | 21 | 0 |
+| Os 2434 | 20 | 0 |
+| Os 7557 | 20 | 0 |
