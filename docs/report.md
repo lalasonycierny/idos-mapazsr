@@ -1,41 +1,41 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **24.10.2026 15:53** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 436
+Posledny snimok: **24.10.2026 16:24** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 466
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 128 | 3.2 | 0.0 | 20 % | 11 % | 6 |
+| 118 | 2.6 | 0.0 | 18 % | 9 % | 1 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| R 963 ZAKARPATIA Mukačevo UA -> Košice | 38 min | Slanec | Železničná spoločnosť Slovensko, a.s. |
-| Os 7823 | 38 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
-| R 10725 POVAŽAN | 30 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
-| Os 7818 | 27 min | Vydrník | Železničná spoločnosť Slovensko, a.s. |
-| SC 240 PENDOLINO KOŠIČAN Košice -> Praha jih | 22 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
-| R 839 URPÍN | 22 min | Lok | Železničná spoločnosť Slovensko, a.s. |
-| railjet 277 METROPOLITAN Praha jih -> Budapest-Nyugati | 16 min | Štúrovo št. hr. | MÁV-Start Zrt. |
+| SC 240 PENDOLINO KOŠIČAN Košice -> Praha jih | 25 min | Výh Gánovce | Železničná spoločnosť Slovensko, a.s. |
 | Os 2414 | 15 min | Kúty | Železničná spoločnosť Slovensko, a.s. |
-| Ex 614 TATRAN | 14 min | Výh. Potvorice | Železničná spoločnosť Slovensko, a.s. |
-| Ex 621 TATRAN | 14 min | Varín | Železničná spoločnosť Slovensko, a.s. |
+| Ex 621 TATRAN | 14 min | Kraľovany | Železničná spoločnosť Slovensko, a.s. |
+| Ex 622 TATRAN | 14 min | Spišská Nová Ves | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1003 REGIOJET Praha-Malešice -> Košice | 14 min | Spišské Vlachy | RegioJet a. s. |
+| Ex 614 TATRAN | 12 min | Trnava nákladná stanica | Železničná spoločnosť Slovensko, a.s. |
+| R 840 URPÍN | 12 min | Veľké Kozmálovce | Železničná spoločnosť Slovensko, a.s. |
+| REX 1787 | 12 min | Červená Skala | Železničná spoločnosť Slovensko, a.s. |
+| Os 3125 | 11 min | Poriadie | Železničná spoločnosť Slovensko, a.s. |
+| Os 7823 | 11 min | Malá Lodina | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
-| railjet | 1045 | 10.9 | 71 % | 47 % |
-| RJ | 765 | 9.0 | 52 % | 19 % |
+| railjet | 1085 | 10.8 | 71 % | 46 % |
+| RJ | 809 | 8.9 | 52 % | 20 % |
 | Zr | 52 | 7.0 | 56 % | 56 % |
-| EC | 1342 | 6.8 | 33 % | 16 % |
-| REX | 5266 | 6.1 | 28 % | 18 % |
-| Ex | 5390 | 5.2 | 42 % | 16 % |
-| R | 8364 | 5.2 | 23 % | 15 % |
-| SC | 322 | 3.8 | 31 % | 16 % |
-| Os | 31196 | 2.8 | 17 % | 8 % |
+| EC | 1505 | 6.4 | 30 % | 15 % |
+| REX | 5675 | 5.9 | 27 % | 17 % |
+| SC | 352 | 5.4 | 37 % | 23 % |
+| Ex | 5765 | 5.2 | 41 % | 17 % |
+| R | 8950 | 5.2 | 23 % | 15 % |
+| Os | 33254 | 2.8 | 17 % | 8 % |
 | EN | 117 | 2.2 | 0 % | 0 % |
 
 ## Podla dopravcu
@@ -44,16 +44,16 @@ Posledny snimok: **24.10.2026 15:53** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|---|---|
 | Ukrajinské železnice - P | 10 | 76.0 | 100 % | 100 % |
 | Ukrajinské železnice - C | 8 | 25.0 | 100 % | 100 % |
-| České dráhy, a.s. | 107 | 10.6 | 55 % | 44 % |
-| RegioJet a. s. | 824 | 7.6 | 48 % | 17 % |
-| MÁV-Start Zrt. | 102 | 7.3 | 52 % | 39 % |
-| ARRIVA vlaky s.r.o. | 90 | 6.5 | 42 % | 42 % |
-| Železničná spoločnosť Slovensko, a.s. | 50454 | 4.1 | 24 % | 12 % |
+| České dráhy, a.s. | 110 | 10.4 | 54 % | 43 % |
+| RegioJet a. s. | 868 | 7.6 | 48 % | 17 % |
+| MÁV-Start Zrt. | 106 | 7.6 | 54 % | 42 % |
+| ARRIVA vlaky s.r.o. | 102 | 6.2 | 37 % | 37 % |
+| Železničná spoločnosť Slovensko, a.s. | 53925 | 4.1 | 23 % | 12 % |
 | RegioJet a.s. | 29 | 3.9 | 31 % | 0 % |
-| Leo Express Slovensko s.r.o. | 1854 | 1.8 | 10 % | 5 % |
-| Österreichische Bundesbahnen Personenver | 84 | 1.5 | 8 % | 0 % |
+| Leo Express Slovensko s.r.o. | 1984 | 1.8 | 9 % | 5 % |
+| Österreichische Bundesbahnen Personenver | 95 | 1.5 | 7 % | 0 % |
 | Przewozy Regionalne Sp. z o.o. | 76 | 0.5 | 0 % | 0 % |
-| Leo Express s.r.o. | 221 | -1.2 | 15 % | 0 % |
+| Leo Express s.r.o. | 251 | -0.5 | 19 % | 0 % |
 
 ## Podla hodiny dna
 
@@ -66,7 +66,8 @@ Posledny snimok: **24.10.2026 15:53** (Europe/Bratislava), obdobie: poslednych 2
 | 12:00 | 4.5 | 23 % |
 | 13:00 | 4.0 | 22 % |
 | 14:00 | 4.0 | 24 % |
-| 15:00 | 3.4 | 19 % |
+| 15:00 | 3.4 | 20 % |
+| 16:00 | 3.0 | 17 % |
 
 ## Najvacsie meskania v obdobi
 
@@ -78,10 +79,10 @@ Posledny snimok: **24.10.2026 15:53** (Europe/Bratislava), obdobie: poslednych 2
 | REX 1783 | 59 min | 255 |
 | Os 3110 | 55 min | 138 |
 | EC 278 METROPOLITAN Budapest-Nyugati -> Praha jih | 50 min | 206 |
-| REX 1784 | 50 min | 229 |
+| REX 1784 | 50 min | 259 |
 | R 10719 POVAŽAN | 47 min | 119 |
-| Os 7823 | 38 min | 115 |
-| R 963 ZAKARPATIA Mukačevo UA -> Košice | 38 min | 173 |
+| Os 7818 | 43 min | 170 |
+| Os 7823 | 38 min | 145 |
 
 ## Vlaky, ktorym meskanie najviac narastlo (zaciatok -> koniec)
 
@@ -92,21 +93,21 @@ Posledny snimok: **24.10.2026 15:53** (Europe/Bratislava), obdobie: poslednych 2
 | RJ 1222 REGIOJET Košice -> Čop UA | 21 | 76 | +55 |
 | EC 278 METROPOLITAN Budapest-Nyugati -> Praha jih | 0 | 47 | +47 |
 | R 961 ZAKARPATIA Čop UA -> Košice | 0 | 44 | +44 |
+| Os 7818 | 0 | 42 | +42 |
 | R 10719 POVAŽAN | 0 | 41 | +41 |
-| Os 7823 | 0 | 38 | +38 |
-| R 963 ZAKARPATIA Mukačevo UA -> Košice | 0 | 38 | +38 |
 | R 10716 POVAŽAN | 0 | 34 | +34 |
+| R 963 ZAKARPATIA Mukačevo UA -> Košice | 0 | 34 | +34 |
 | railjet 174 HUNGARIA Budapest-Nyugati -> Hamburg-Altona DE | 0 | 31 | +31 |
 
 ### Vlaky, ktore meskanie najviac dobehli
 
 | Vlak | Zaciatok | Koniec | Zmena |
 |---|---|---|---|
-| REX 1784 | 46 | 13 | -33 |
+| REX 1784 | 46 | 6 | -40 |
 | EC 1216 LEO EXPRESS Bratislava hlavná stanica -> Praha hl.n. | 0 | -12 | -12 |
 | Os 8418 | 0 | -12 | -12 |
 | EC 184 HORNÁD Budapest-Keleti -> Košice | 0 | -11 | -11 |
-| R 834 URPÍN | 10 | 0 | -10 |
+| Os 8422 | 0 | -10 | -10 |
 
 ## Vlaky s narusenim prevadzky v obdobi
 
@@ -132,26 +133,22 @@ Posledny snimok: **24.10.2026 15:53** (Europe/Bratislava), obdobie: poslednych 2
 
 | Vlak | Od | Do |
 |---|---|---|
-| REX 1441 | Dunajská Streda | Dolný Štál |
-| REX 1444 | Dolný Štál | Dunajská Streda |
-| Os 6623 | Poltár | Utekáč |
-
-Vlaky s NAD v celej trase: EC 188 HORNÁD Budapest-Keleti -> Košice, Os 6123
+| Os 6624 | Utekáč | Poltár |
 
 ## Najviac vlakov pri jednej stanici (teraz)
 
 | Stanica | Vlakov |
 |---|---|
-| Bratislava hlavná stanica | 4 |
-| Spišské Vlachy | 3 |
-| Lúky pod Makytou | 2 |
-| Trnava | 2 |
-| Vydrník | 2 |
-| Ilava | 2 |
-| Prievidza | 2 |
-| Sládkovičovo | 2 |
-| Bratislava-Nové Mesto | 2 |
-| Sliač kúpele | 2 |
+| Vrútky | 3 |
+| Prešov | 3 |
+| Trnava nákladná stanica | 2 |
+| Trenčín | 2 |
+| Bratislava hlavná stanica | 2 |
+| Alekšince | 2 |
+| Lučenec | 2 |
+| Banská Bystrica | 2 |
+| Červená Skala | 2 |
+| Zohor | 2 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -160,10 +157,9 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
 | Os 2414 | 120 | 15 |
-| Os 3244 | 62 | 0 |
-| Os 2422 | 47 | 0 |
-| Os 7850 | 33 | 5 |
-| SC 240 PENDOLINO KOŠIČAN Košice -> Praha jih | 26 | 22 |
-| Os 5323 | 24 | 0 |
-| Os 7818 | 22 | 27 |
-| Os 6723 | 20 | 0 |
+| Os 5922 | 31 | 0 |
+| Os 5724 | 25 | 9 |
+| Os 9025 | 25 | 2 |
+| Os 8224 | 22 | 0 |
+| Os 2425 | 20 | 0 |
+| Os 4087 | 20 | 0 |
