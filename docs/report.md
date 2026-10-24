@@ -1,27 +1,24 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **25.10.2026 00:27** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 946
+Posledny snimok: **25.10.2026 00:57** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 976
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 12 | 13.7 | 8.5 | 58 % | 42 % | 0 |
+| 7 | 6.7 | 3 | 43 % | 43 % | 0 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| Os 7856 | 61 min | Liptovský Hrádok | Železničná spoločnosť Slovensko, a.s. |
-| REX 1976 | 28 min | Lipany | Železničná spoločnosť Slovensko, a.s. |
-| Os 8337 | 23 min | Podolínec | Železničná spoločnosť Slovensko, a.s. |
-| RJ 1020 REGIOJET Košice -> Praha-Malešice | 18 min | Ružomberok | RegioJet a. s. |
-| EN 442 SLOVAKIA Humenné -> Praha jih | 16 min | Kráľova Lehota | Železničná spoločnosť Slovensko, a.s. |
-| REX 1939 | 9 min | Michalovce | Železničná spoločnosť Slovensko, a.s. |
-| Os 8537 | 8 min | Slovenské Nové Mesto | Železničná spoločnosť Slovensko, a.s. |
-| R 680 ZEMPLÍN | 3 min | Krompachy | Železničná spoločnosť Slovensko, a.s. |
-| EC 1250 LEO EXPRESS Prešov -> Praha hl.n. | 0 min | Budatín odb. | Leo Express s.r.o. |
-| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 0 min | Čadca | Leo Express s.r.o. |
+| EN 442 SLOVAKIA Humenné -> Praha jih | 16 min | Ružomberok | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1020 REGIOJET Košice -> Praha-Malešice | 16 min | Výhybňa Váh | RegioJet a. s. |
+| R 680 ZEMPLÍN | 12 min | Spišská Nová Ves | Železničná spoločnosť Slovensko, a.s. |
+| Os 8537 | 3 min | Čierna nad Tisou | Železničná spoločnosť Slovensko, a.s. |
+| R 681 ZEMPLÍN | 0 min | Púchov | Železničná spoločnosť Slovensko, a.s. |
+| EC 1250 LEO EXPRESS Prešov -> Praha hl.n. | 0 min | Čadca št. hr. | Leo Express s.r.o. |
+| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 0 min | Potok odb. | Leo Express s.r.o. |
 
 ## Podla kategorie vlaku
 
@@ -30,14 +27,14 @@ Posledny snimok: **25.10.2026 00:27** (Europe/Bratislava), obdobie: poslednych 2
 | railjet | 1629 | 19.8 | 68 % | 41 % |
 | rjx | 155 | 10.9 | 91 % | 91 % |
 | SC | 504 | 10.5 | 56 % | 46 % |
-| EN | 587 | 7.7 | 41 % | 40 % |
+| EN | 617 | 8.1 | 44 % | 43 % |
+| RJ | 2017 | 6.7 | 42 % | 21 % |
 | Ex | 10032 | 6.6 | 43 % | 23 % |
-| RJ | 1987 | 6.5 | 41 % | 20 % |
 | Zr | 70 | 5.2 | 41 % | 41 % |
-| EC | 3033 | 5.2 | 29 % | 13 % |
-| REX | 10113 | 4.6 | 21 % | 13 % |
-| R | 15414 | 4.3 | 21 % | 12 % |
-| Os | 62204 | 2.5 | 15 % | 7 % |
+| EC | 3093 | 5.1 | 28 % | 13 % |
+| REX | 10139 | 4.6 | 21 % | 13 % |
+| R | 15474 | 4.3 | 21 % | 12 % |
+| Os | 62279 | 2.5 | 15 % | 7 % |
 
 ## Podla dopravcu
 
@@ -47,11 +44,11 @@ Posledny snimok: **25.10.2026 00:27** (Europe/Bratislava), obdobie: poslednych 2
 | Ukrajinské železnice - C | 16 | 18.0 | 100 % | 100 % |
 | MÁV-Start Zrt. | 172 | 13.2 | 44 % | 33 % |
 | České dráhy, a.s. | 201 | 8.9 | 48 % | 38 % |
+| RegioJet a. s. | 2067 | 6.2 | 40 % | 20 % |
 | ARRIVA vlaky s.r.o. | 169 | 6.1 | 37 % | 22 % |
-| RegioJet a. s. | 2037 | 6.1 | 39 % | 19 % |
 | RegioJet a.s. | 38 | 5.6 | 47 % | 24 % |
-| Železničná spoločnosť Slovensko, a.s. | 98149 | 3.9 | 22 % | 12 % |
-| Leo Express s.r.o. | 836 | 3.3 | 22 % | 12 % |
+| Železničná spoločnosť Slovensko, a.s. | 98340 | 3.9 | 22 % | 12 % |
+| Leo Express s.r.o. | 896 | 3.1 | 20 % | 11 % |
 | Österreichische Bundesbahnen Personenver | 165 | 1.7 | 10 % | 0 % |
 | Leo Express Slovensko s.r.o. | 3780 | 1.3 | 6 % | 3 % |
 | Przewozy Regionalne Sp. z o.o. | 155 | 0.8 | 0 % | 0 % |
@@ -60,7 +57,7 @@ Posledny snimok: **25.10.2026 00:27** (Europe/Bratislava), obdobie: poslednych 2
 
 | Hodina | Priem. meskanie | >5 min |
 |---|---|---|
-| 00:00 | 12.0 | 48 % |
+| 00:00 | 10.6 | 48 % |
 | 08:00 | 3.0 | 22 % |
 | 09:00 | 3.8 | 24 % |
 | 10:00 | 4.7 | 28 % |
@@ -86,7 +83,7 @@ Posledny snimok: **25.10.2026 00:27** (Europe/Bratislava), obdobie: poslednych 2
 | R 961 ZAKARPATIA Čop UA -> Košice | 89 min | 245 |
 | RJ 1222 REGIOJET Košice -> Čop UA | 76 min | 133 |
 | Os 3113 | 68 min | 147 |
-| Os 7856 | 61 min | 117 |
+| Os 7856 | 61 min | 123 |
 | REX 1764 | 61 min | 152 |
 | REX 1783 | 59 min | 255 |
 | Os 3110 | 55 min | 138 |
@@ -146,16 +143,13 @@ _ziadne data_
 
 | Stanica | Vlakov |
 |---|---|
-| Kráľova Lehota | 1 |
-| Krompachy | 1 |
-| Trenčín-Zlatovce | 1 |
 | Ružomberok | 1 |
-| Budatín odb. | 1 |
-| Čadca | 1 |
-| Michalovce | 1 |
-| Lipany | 1 |
-| Trnovec nad Váhom | 1 |
-| Liptovský Hrádok | 1 |
+| Spišská Nová Ves | 1 |
+| Púchov | 1 |
+| Výhybňa Váh | 1 |
+| Čadca št. hr. | 1 |
+| Potok odb. | 1 |
+| Čierna nad Tisou | 1 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
