@@ -1,43 +1,43 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **25.10.2026 06:59** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1396
+Posledny snimok: **25.10.2026 07:30** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1426
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 117 | 1.6 | 0 | 13 % | 4 % | 2 |
+| 114 | 4.0 | 0.0 | 18 % | 12 % | 7 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| RJ 1008 REGIOJET Košice -> Praha-Malešice | 29 min | Turany | RegioJet a. s. |
-| Ex 600 TATRAN | 18 min | Ružomberok | Železničná spoločnosť Slovensko, a.s. |
-| Os 7802 | 15 min | Markušovce | Železničná spoločnosť Slovensko, a.s. |
-| Os 3105 | 14 min | Čachtice | Železničná spoločnosť Slovensko, a.s. |
-| Ex 502 KRIVÁŇ | 12 min | Výh Gánovce | Železničná spoločnosť Slovensko, a.s. |
-| EN 443 SLOVAKIA Praha jih -> Humenné | 10 min | Výh Gánovce | Železničná spoločnosť Slovensko, a.s. |
-| R 831 URPÍN | 9 min | Palárikovo | Železničná spoločnosť Slovensko, a.s. |
-| Os 2007 | 9 min | Malacky | Železničná spoločnosť Slovensko, a.s. |
-| Os 7807 | 9 min | Vydrník | Železničná spoločnosť Slovensko, a.s. |
-| EN 477 METROPOL Břeclav -> Budapest-Nyugati | 8 min | Tvrdošovce | Železničná spoločnosť Slovensko, a.s. |
+| Ex 607 TATRAN | 46 min | Cífer | Železničná spoločnosť Slovensko, a.s. |
+| R 10707 POVAŽAN | 36 min | Bratislava-Rača | Železničná spoločnosť Slovensko, a.s. |
+| Os 3005 | 31 min | Pezinok | Železničná spoločnosť Slovensko, a.s. |
+| R 740 PONITRAN | 30 min | Bratislava-Rača | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1008 REGIOJET Košice -> Praha-Malešice | 28 min | Budatín odb. | RegioJet a. s. |
+| Os 2606 | 26 min | Trnava | Železničná spoločnosť Slovensko, a.s. |
+| REX 2504  Wien Hbf -> Bratislava hlavná stanica | 23 min | Bratislava-Lamač | Železničná spoločnosť Slovensko, a.s. |
+| R 743 PONITRAN | 19 min | Bratislava predmestie | Železničná spoločnosť Slovensko, a.s. |
+| R 10704 POVAŽAN | 18 min | Bratislava-Rača | Železničná spoločnosť Slovensko, a.s. |
+| Ex 502 KRIVÁŇ | 15 min | Štrba | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
-| railjet | 1636 | 19.7 | 68 % | 41 % |
+| railjet | 1666 | 19.4 | 67 % | 40 % |
 | SC | 504 | 10.5 | 56 % | 46 % |
 | rjx | 199 | 8.5 | 71 % | 71 % |
-| EN | 1080 | 7.4 | 52 % | 38 % |
-| RJ | 2738 | 6.8 | 41 % | 24 % |
-| Ex | 10972 | 6.4 | 41 % | 22 % |
-| EC | 3786 | 4.3 | 25 % | 11 % |
-| REX | 11649 | 4.2 | 19 % | 11 % |
-| R | 17843 | 4.0 | 20 % | 12 % |
+| EN | 1140 | 7.3 | 52 % | 36 % |
+| RJ | 2828 | 7.0 | 42 % | 24 % |
+| Ex | 11278 | 6.4 | 40 % | 22 % |
+| EC | 3865 | 4.3 | 25 % | 11 % |
+| REX | 11961 | 4.1 | 19 % | 11 % |
+| R | 18355 | 4.0 | 20 % | 12 % |
 | Zr | 146 | 2.3 | 20 % | 20 % |
-| Os | 73299 | 2.3 | 14 % | 6 % |
+| Os | 75497 | 2.2 | 14 % | 6 % |
 
 ## Podla dopravcu
 
@@ -45,15 +45,15 @@ Posledny snimok: **25.10.2026 06:59** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|---|---|
 | Ukrajinské železnice - P | 10 | 76.0 | 100 % | 100 % |
 | Ukrajinské železnice - C | 16 | 18.0 | 100 % | 100 % |
-| MÁV-Start Zrt. | 182 | 12.6 | 41 % | 31 % |
-| České dráhy, a.s. | 257 | 7.8 | 46 % | 38 % |
-| RegioJet a. s. | 2768 | 6.5 | 40 % | 23 % |
+| MÁV-Start Zrt. | 186 | 12.3 | 40 % | 30 % |
+| České dráhy, a.s. | 272 | 7.3 | 43 % | 36 % |
+| RegioJet a. s. | 2858 | 6.6 | 40 % | 23 % |
 | ARRIVA vlaky s.r.o. | 169 | 6.1 | 37 % | 22 % |
 | RegioJet a.s. | 58 | 4.6 | 52 % | 36 % |
-| Železničná spoločnosť Slovensko, a.s. | 114358 | 3.5 | 20 % | 11 % |
-| Österreichische Bundesbahnen Personenver | 197 | 2.6 | 11 % | 3 % |
-| Leo Express s.r.o. | 1325 | 2.3 | 18 % | 9 % |
-| Leo Express Slovensko s.r.o. | 4337 | 1.2 | 6 % | 2 % |
+| Železničná spoločnosť Slovensko, a.s. | 117669 | 3.5 | 20 % | 10 % |
+| Österreichische Bundesbahnen Personenver | 207 | 2.5 | 11 % | 3 % |
+| Leo Express s.r.o. | 1355 | 2.4 | 19 % | 9 % |
+| Leo Express Slovensko s.r.o. | 4464 | 1.1 | 6 % | 2 % |
 | Przewozy Regionalne Sp. z o.o. | 175 | 0.7 | 0 % | 0 % |
 
 ## Podla hodiny dna
@@ -67,6 +67,7 @@ Posledny snimok: **25.10.2026 06:59** (Europe/Bratislava), obdobie: poslednych 2
 | 04:00 | 1.0 | 6 % |
 | 05:00 | 1.5 | 11 % |
 | 06:00 | 1.4 | 10 % |
+| 07:00 | 2.5 | 13 % |
 | 08:00 | 3.0 | 22 % |
 | 09:00 | 3.8 | 24 % |
 | 10:00 | 4.7 | 28 % |
@@ -108,11 +109,11 @@ Posledny snimok: **25.10.2026 06:59** (Europe/Bratislava), obdobie: poslednych 2
 | Os 3110 | 0 | 55 | +55 |
 | RJ 1222 REGIOJET Košice -> Čop UA | 21 | 76 | +55 |
 | EC 278 METROPOLITAN Budapest-Nyugati -> Praha jih | 0 | 47 | +47 |
+| Ex 607 TATRAN | 0 | 46 | +46 |
 | R 961 ZAKARPATIA Čop UA -> Košice | 0 | 44 | +44 |
 | Os 7818 | 0 | 42 | +42 |
 | R 10719 POVAŽAN | 0 | 41 | +41 |
 | Ex 526 KRIVÁŇ | 0 | 37 | +37 |
-| REX 7784  Bratislava-Petržalka -> Wien Hbf | 0 | 37 | +37 |
 
 ### Vlaky, ktore meskanie najviac dobehli
 
@@ -150,20 +151,22 @@ Posledny snimok: **25.10.2026 06:59** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|
 | Os 6607 | Poltár | Utekáč |
 
+Vlaky s NAD v celej trase: Os 6107
+
 ## Najviac vlakov pri jednej stanici (teraz)
 
 | Stanica | Vlakov |
 |---|---|
-| Košice | 4 |
-| Kúty | 3 |
-| Kúty št. hr. | 2 |
-| Výh Gánovce | 2 |
+| Budatín odb. | 3 |
+| Bratislava-Rača | 3 |
+| Liptovská Teplá | 2 |
+| Margecany | 2 |
+| Hliník nad Hronom | 2 |
+| Košice | 2 |
 | Púchov | 2 |
-| Ružomberok | 2 |
-| Turany | 2 |
-| Humenné | 2 |
-| Topoľčany | 2 |
-| Vrútky | 2 |
+| Skalité | 2 |
+| Párnica | 2 |
+| Trenčianska Teplá | 2 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -171,9 +174,13 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
-| Os 2402 | 112 | 0 |
-| Os 8580 | 66 | 0 |
-| Os 8904 | 38 | 0 |
-| Os 9244 | 33 | 0 |
-| Os 5202 | 26 | 0 |
-| Os 9405 | 26 | 0 |
+| Os 2406 | 1432 | 0 |
+| R 740 PONITRAN | 34 | 30 |
+| REX 1780 | 30 | 0 |
+| Os 8905 | 30 | 0 |
+| Os 9245 | 30 | 0 |
+| Os 4082 | 27 | 0 |
+| Os 5380 | 22 | 0 |
+| Os 5906 | 22 | 2 |
+| R 10704 POVAŽAN | 22 | 18 |
+| Os 5750 | 21 | 0 |
