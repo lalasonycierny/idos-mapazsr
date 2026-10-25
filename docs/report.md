@@ -1,42 +1,40 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **26.10.2026 00:29** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1371
+Posledny snimok: **26.10.2026 00:59** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1371
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 13 | 22.8 | 12 | 69 % | 54 % | 0 |
+| 8 | 24.4 | 13.5 | 88 % | 62 % | 0 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| Os 8336 | 97 min | Spišská Belá zastávka | Železničná spoločnosť Slovensko, a.s. |
-| Os 7856 | 80 min | Východná | Železničná spoločnosť Slovensko, a.s. |
-| RJ 1020 REGIOJET Košice -> Praha-Malešice | 43 min | Liptovský Mikuláš | RegioJet a. s. |
-| EN 442 SLOVAKIA Humenné -> Praha jih | 16 min | Liptovský Hrádok | Železničná spoločnosť Slovensko, a.s. |
-| REX 1939 | 14 min | Michalovce | Železničná spoločnosť Slovensko, a.s. |
-| R 926 GEMERAN | 13 min | Slavec jaskyňa | Železničná spoločnosť Slovensko, a.s. |
-| Os 8537 | 12 min | Slovenské Nové Mesto | Železničná spoločnosť Slovensko, a.s. |
-| R 680 ZEMPLÍN | 9 min | Margecany | Železničná spoločnosť Slovensko, a.s. |
-| Os 3039 | 7 min | Trnava | Železničná spoločnosť Slovensko, a.s. |
-| EC 1250 LEO EXPRESS Prešov -> Praha hl.n. | 5 min | Budatín odb. | Leo Express s.r.o. |
+| Os 8336 | 93 min | Matejovce pri Poprade | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1020 REGIOJET Košice -> Praha-Malešice | 45 min | Kraľovany | RegioJet a. s. |
+| R 680 ZEMPLÍN | 18 min | Markušovce | Železničná spoločnosť Slovensko, a.s. |
+| EN 442 SLOVAKIA Humenné -> Praha jih | 16 min | Ružomberok | Železničná spoločnosť Slovensko, a.s. |
+| Os 8537 | 11 min | Dobrá | Železničná spoločnosť Slovensko, a.s. |
+| EC 1250 LEO EXPRESS Prešov -> Praha hl.n. | 6 min | Čadca št. hr. | Leo Express s.r.o. |
+| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 6 min | Potok odb. | Leo Express s.r.o. |
+| R 681 ZEMPLÍN | 0 min | Púchov | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
 | railjet | 1805 | 33.4 | 82 % | 56 % |
-| RJ | 3016 | 12.0 | 47 % | 38 % |
+| RJ | 3035 | 12.3 | 47 % | 38 % |
 | Ex | 11562 | 11.4 | 53 % | 40 % |
 | SC | 469 | 10.3 | 48 % | 45 % |
-| EN | 1162 | 7.2 | 48 % | 30 % |
-| EC | 4096 | 7.1 | 35 % | 24 % |
-| R | 18991 | 5.1 | 27 % | 13 % |
+| EN | 1162 | 7.3 | 48 % | 31 % |
+| EC | 4126 | 7.1 | 35 % | 24 % |
+| R | 18995 | 5.1 | 27 % | 13 % |
 | rjx | 205 | 4.3 | 71 % | 0 % |
-| REX | 12158 | 3.3 | 13 % | 9 % |
-| Os | 75315 | 3.2 | 18 % | 10 % |
+| REX | 12164 | 3.4 | 13 % | 9 % |
+| Os | 75420 | 3.2 | 19 % | 10 % |
 | Zr | 166 | 0.1 | 2 % | 0 % |
 
 ## Podla dopravcu
@@ -44,13 +42,13 @@ Posledny snimok: **26.10.2026 00:29** (Europe/Bratislava), obdobie: poslednych 2
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
 | Ukrajinské železnice - P | 6 | 45.0 | 100 % | 100 % |
-| RegioJet a.s. | 57 | 29.7 | 72 % | 72 % |
+| RegioJet a.s. | 46 | 33.7 | 65 % | 65 % |
 | MÁV-Start Zrt. | 176 | 18.8 | 45 % | 34 % |
 | Ukrajinské železnice - C | 25 | 14.8 | 100 % | 100 % |
-| RegioJet a. s. | 2986 | 11.5 | 46 % | 37 % |
+| RegioJet a. s. | 3016 | 11.8 | 46 % | 37 % |
 | České dráhy, a.s. | 246 | 10.3 | 52 % | 28 % |
-| Leo Express s.r.o. | 1328 | 9.5 | 38 % | 30 % |
-| Železničná spoločnosť Slovensko, a.s. | 119097 | 4.9 | 25 % | 15 % |
+| Leo Express s.r.o. | 1358 | 9.5 | 40 % | 30 % |
+| Železničná spoločnosť Slovensko, a.s. | 119212 | 5.0 | 25 % | 15 % |
 | ARRIVA vlaky s.r.o. | 192 | 2.5 | 14 % | 14 % |
 | Österreichische Bundesbahnen Personenver | 229 | 2.4 | 10 % | 6 % |
 | Leo Express Slovensko s.r.o. | 4421 | 0.4 | 1 % | 0 % |
@@ -60,8 +58,8 @@ Posledny snimok: **26.10.2026 00:29** (Europe/Bratislava), obdobie: poslednych 2
 
 | Hodina | Priem. meskanie | >5 min |
 |---|---|---|
-| 00:00 | 18.8 | 72 % |
-| 01:00 | 6.4 | 52 % |
+| 00:00 | 20.5 | 72 % |
+| 01:00 | 4.0 | 33 % |
 | 02:00 | 3.0 | 26 % |
 | 03:00 | 0.5 | 0 % |
 | 04:00 | 1.0 | 6 % |
@@ -92,13 +90,13 @@ Posledny snimok: **26.10.2026 00:29** (Europe/Bratislava), obdobie: poslednych 2
 | railjet 277 METROPOLITAN Praha jih -> Budapest-Nyugati | 126 min | 279 |
 | RJ 1048 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 121 min | 189 |
 | REX 1969 | 117 min | 194 |
-| Os 8336 | 97 min | 43 |
+| Os 8336 | 97 min | 73 |
 | EC 1216 LEO EXPRESS Bratislava hlavná stanica -> Praha hl.n. | 85 min | 151 |
 | Os 7827 | 82 min | 159 |
 | R 961 ZAKARPATIA Čop UA -> Košice | 82 min | 177 |
 | Os 7281 | 81 min | 145 |
 | Os 7834 | 81 min | 177 |
-| Os 7856 | 80 min | 118 |
+| Os 7856 | 80 min | 139 |
 
 ## Vlaky, ktorym meskanie najviac narastlo (zaciatok -> koniec)
 
@@ -107,9 +105,9 @@ Posledny snimok: **26.10.2026 00:29** (Europe/Bratislava), obdobie: poslednych 2
 | railjet 277 METROPOLITAN Praha jih -> Budapest-Nyugati | 0 | 124 | +124 |
 | RJ 1048 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 0 | 119 | +119 |
 | REX 1969 | 0 | 117 | +117 |
-| Os 8336 | 0 | 97 | +97 |
+| Os 8336 | 0 | 93 | +93 |
 | Os 7834 | 0 | 80 | +80 |
-| Os 7856 | 0 | 80 | +80 |
+| Os 7856 | 0 | 78 | +78 |
 | REX 1764 | 0 | 78 | +78 |
 | Os 7281 | 0 | 77 | +77 |
 | R 961 ZAKARPATIA Čop UA -> Košice | 0 | 74 | +74 |
@@ -153,16 +151,14 @@ _ziadne data_
 
 | Stanica | Vlakov |
 |---|---|
-| Liptovský Hrádok | 1 |
-| Margecany | 1 |
-| Trenčín | 1 |
-| Slavec jaskyňa | 1 |
-| Liptovský Mikuláš | 1 |
-| Budatín odb. | 1 |
-| Krásno nad Kysucou | 1 |
-| Michalovce | 1 |
-| Trnava | 1 |
-| Trnovec nad Váhom | 1 |
+| Ružomberok | 1 |
+| Markušovce | 1 |
+| Púchov | 1 |
+| Kraľovany | 1 |
+| Čadca št. hr. | 1 |
+| Potok odb. | 1 |
+| Matejovce pri Poprade | 1 |
+| Dobrá | 1 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
