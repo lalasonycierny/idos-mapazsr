@@ -1,6 +1,6 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **25.10.2026 02:27** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1066
+Posledny snimok: **25.10.2026 02:57** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1096
 
 ## Aktualny stav
 
@@ -26,13 +26,13 @@ Posledny snimok: **25.10.2026 02:27** (Europe/Bratislava), obdobie: poslednych 2
 | railjet | 1629 | 19.8 | 68 % | 41 % |
 | rjx | 155 | 10.9 | 91 % | 91 % |
 | SC | 504 | 10.5 | 56 % | 46 % |
-| EN | 707 | 8.9 | 51 % | 49 % |
-| RJ | 2088 | 6.8 | 42 % | 23 % |
+| EN | 737 | 8.9 | 53 % | 51 % |
+| RJ | 2118 | 6.7 | 42 % | 22 % |
 | Ex | 10032 | 6.6 | 43 % | 23 % |
 | Zr | 70 | 5.2 | 41 % | 41 % |
-| EC | 3183 | 5.0 | 28 % | 12 % |
-| REX | 10200 | 4.6 | 21 % | 13 % |
-| R | 15654 | 4.3 | 21 % | 13 % |
+| EC | 3213 | 5.0 | 27 % | 12 % |
+| REX | 10230 | 4.6 | 21 % | 13 % |
+| R | 15714 | 4.3 | 22 % | 13 % |
 | Os | 62279 | 2.5 | 15 % | 7 % |
 
 ## Podla dopravcu
@@ -44,10 +44,10 @@ Posledny snimok: **25.10.2026 02:27** (Europe/Bratislava), obdobie: poslednych 2
 | MÁV-Start Zrt. | 172 | 13.2 | 44 % | 33 % |
 | České dráhy, a.s. | 201 | 8.9 | 48 % | 38 % |
 | RegioJet a.s. | 50 | 7.4 | 60 % | 42 % |
-| RegioJet a. s. | 2126 | 6.3 | 40 % | 21 % |
+| RegioJet a. s. | 2156 | 6.2 | 40 % | 21 % |
 | ARRIVA vlaky s.r.o. | 169 | 6.1 | 37 % | 22 % |
-| Železničná spoločnosť Slovensko, a.s. | 98671 | 3.9 | 22 % | 12 % |
-| Leo Express s.r.o. | 986 | 3.0 | 18 % | 10 % |
+| Železničná spoločnosť Slovensko, a.s. | 98791 | 3.9 | 22 % | 12 % |
+| Leo Express s.r.o. | 1016 | 2.9 | 18 % | 10 % |
 | Österreichische Bundesbahnen Personenver | 165 | 1.7 | 10 % | 0 % |
 | Leo Express Slovensko s.r.o. | 3780 | 1.3 | 6 % | 3 % |
 | Przewozy Regionalne Sp. z o.o. | 155 | 0.8 | 0 % | 0 % |
@@ -157,7 +157,7 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
-| R 680 ZEMPLÍN | 32 | 12 |
-| R 681 ZEMPLÍN | 30 | 0 |
-| EN 442 SLOVAKIA Humenné -> Praha jih | 29 | 11 |
-| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 29 | 1 |
+| R 680 ZEMPLÍN | 62 | 12 |
+| R 681 ZEMPLÍN | 60 | 0 |
+| EN 442 SLOVAKIA Humenné -> Praha jih | 59 | 11 |
+| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 59 | 1 |
