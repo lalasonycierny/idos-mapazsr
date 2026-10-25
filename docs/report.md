@@ -1,27 +1,27 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **25.10.2026 04:28** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1246
+Posledny snimok: **25.10.2026 04:58** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1276
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 62 | 1.0 | 0.0 | 5 % | 2 % | 0 |
+| 92 | 1.6 | 0.0 | 11 % | 4 % | 1 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| R 681 ZEMPLÍN | 14 min | Krompachy | Železničná spoločnosť Slovensko, a.s. |
-| EN 443 SLOVAKIA Praha jih -> Humenné | 8 min | Kysucké Nové Mesto | Železničná spoločnosť Slovensko, a.s. |
-| RJ 1021 REGIOJET Praha-Malešice -> Košice | 6 min | Štrba | RegioJet a. s. |
-| Os 7541 | 5 min | Krásno nad Kysucou | Železničná spoločnosť Slovensko, a.s. |
-| Os 2001 | 4 min | Malacky | Železničná spoločnosť Slovensko, a.s. |
-| Os 7801 | 4 min | Markušovce | Železničná spoločnosť Slovensko, a.s. |
-| Ex 603 TATRAN | 3 min | Bratislava-Rača | Železničná spoločnosť Slovensko, a.s. |
-| R 680 ZEMPLÍN | 3 min | Výh. Potvorice | Železničná spoločnosť Slovensko, a.s. |
-| Os 3101 | 3 min | Paprad | Železničná spoločnosť Slovensko, a.s. |
-| R 10700 POVAŽAN | 3 min | Brestovany | Železničná spoločnosť Slovensko, a.s. |
+| Os 8501 | 17 min | Kysak | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1008 REGIOJET Košice -> Praha-Malešice | 14 min | Markušovce | RegioJet a. s. |
+| RJ 1021 REGIOJET Praha-Malešice -> Košice | 13 min | Výh Gánovce | RegioJet a. s. |
+| Os 7870 | 13 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
+| R 681 ZEMPLÍN | 9 min | Kostoľany nad Hornádom | Železničná spoločnosť Slovensko, a.s. |
+| Os 8500 | 9 min | Košice | Železničná spoločnosť Slovensko, a.s. |
+| Os 3101 | 8 min | Nové Mesto nad Váhom | Železničná spoločnosť Slovensko, a.s. |
+| Os 4300 | 7 min | Podunajské Biskupice | Leo Express Slovensko s.r.o. |
+| Ex 603 TATRAN | 6 min | Trnava | Železničná spoločnosť Slovensko, a.s. |
+| Os 2003 | 6 min | Malacky | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
@@ -30,14 +30,14 @@ Posledny snimok: **25.10.2026 04:28** (Europe/Bratislava), obdobie: poslednych 2
 | railjet | 1629 | 19.8 | 68 % | 41 % |
 | rjx | 155 | 10.9 | 91 % | 91 % |
 | SC | 504 | 10.5 | 56 % | 46 % |
-| EN | 805 | 8.8 | 54 % | 51 % |
-| Ex | 10089 | 6.6 | 42 % | 23 % |
-| RJ | 2310 | 6.3 | 39 % | 21 % |
-| EC | 3324 | 4.8 | 26 % | 12 % |
-| REX | 10404 | 4.5 | 21 % | 13 % |
-| R | 16070 | 4.2 | 21 % | 13 % |
-| Zr | 118 | 2.8 | 25 % | 25 % |
-| Os | 63549 | 2.5 | 15 % | 7 % |
+| EN | 840 | 8.6 | 53 % | 49 % |
+| Ex | 10179 | 6.5 | 42 % | 23 % |
+| RJ | 2370 | 6.4 | 40 % | 21 % |
+| EC | 3369 | 4.8 | 26 % | 12 % |
+| REX | 10531 | 4.5 | 21 % | 12 % |
+| R | 16211 | 4.2 | 21 % | 13 % |
+| Os | 65502 | 2.4 | 15 % | 7 % |
+| Zr | 146 | 2.3 | 20 % | 20 % |
 
 ## Podla dopravcu
 
@@ -46,14 +46,14 @@ Posledny snimok: **25.10.2026 04:28** (Europe/Bratislava), obdobie: poslednych 2
 | Ukrajinské železnice - P | 10 | 76.0 | 100 % | 100 % |
 | Ukrajinské železnice - C | 16 | 18.0 | 100 % | 100 % |
 | MÁV-Start Zrt. | 172 | 13.2 | 44 % | 33 % |
-| České dráhy, a.s. | 223 | 9.1 | 53 % | 44 % |
+| České dráhy, a.s. | 237 | 8.6 | 50 % | 41 % |
 | RegioJet a.s. | 50 | 7.4 | 60 % | 42 % |
 | ARRIVA vlaky s.r.o. | 169 | 6.1 | 37 % | 22 % |
-| RegioJet a. s. | 2348 | 5.8 | 37 % | 19 % |
-| Železničná spoločnosť Slovensko, a.s. | 100650 | 3.9 | 21 % | 12 % |
-| Leo Express s.r.o. | 1127 | 2.8 | 16 % | 9 % |
+| RegioJet a. s. | 2408 | 5.9 | 39 % | 19 % |
+| Železničná spoločnosť Slovensko, a.s. | 102933 | 3.8 | 21 % | 11 % |
+| Leo Express s.r.o. | 1161 | 2.7 | 16 % | 9 % |
 | Österreichische Bundesbahnen Personenver | 169 | 1.7 | 9 % | 0 % |
-| Leo Express Slovensko s.r.o. | 3868 | 1.2 | 6 % | 3 % |
+| Leo Express Slovensko s.r.o. | 3956 | 1.2 | 7 % | 3 % |
 | Przewozy Regionalne Sp. z o.o. | 155 | 0.8 | 0 % | 0 % |
 
 ## Podla hodiny dna
@@ -64,7 +64,7 @@ Posledny snimok: **25.10.2026 04:28** (Europe/Bratislava), obdobie: poslednych 2
 | 01:00 | 7.6 | 54 % |
 | 02:00 | 3.0 | 26 % |
 | 03:00 | 0.5 | 0 % |
-| 04:00 | 0.8 | 5 % |
+| 04:00 | 1.0 | 6 % |
 | 08:00 | 3.0 | 22 % |
 | 09:00 | 3.8 | 24 % |
 | 10:00 | 4.7 | 28 % |
@@ -152,16 +152,16 @@ Posledny snimok: **25.10.2026 04:28** (Europe/Bratislava), obdobie: poslednych 2
 
 | Stanica | Vlakov |
 |---|---|
+| Nové Zámky | 3 |
+| Čadca | 3 |
+| Spišské Vlachy | 2 |
+| Trnava | 2 |
 | Kysak | 2 |
-| Krompachy | 2 |
-| Kysucké Nové Mesto | 1 |
-| Bratislava-Rača | 1 |
-| Varín | 1 |
-| Výh. Potvorice | 1 |
-| Nováky | 1 |
-| Štrba | 1 |
-| Bratislava-Nové Mesto | 1 |
-| Rišňovce | 1 |
+| Malacky | 2 |
+| Bratislava-Lamač | 2 |
+| Nové Mesto nad Váhom | 2 |
+| Vlkanová | 2 |
+| Nálepkovo | 2 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -169,5 +169,8 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
-| Os 5900 | 27 | 0 |
-| Os 4079 | 25 | 0 |
+| Os 5900 | 57 | 0 |
+| Os 8900 | 36 | 0 |
+| Os 3501 | 27 | 0 |
+| Os 9401 | 25 | 0 |
+| Os 8501 | 20 | 17 |
