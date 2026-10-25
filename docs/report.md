@@ -1,43 +1,43 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **25.10.2026 05:59** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1336
+Posledny snimok: **25.10.2026 06:29** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1366
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 100 | 1.6 | 0.0 | 10 % | 3 % | 2 |
+| 105 | 1.3 | 0 | 9 % | 2 % | 1 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| REX 7784  Bratislava-Petržalka -> Wien Hbf | 37 min | Bratislava-Petržalka št. hr. | Österreichische Bundesbahnen Personenver |
-| RJ 1008 REGIOJET Košice -> Praha-Malešice | 25 min | Štrba | RegioJet a. s. |
-| Ex 600 TATRAN | 18 min | Poprad-Tatry | Železničná spoločnosť Slovensko, a.s. |
-| R 741 PONITRAN | 7 min | Brestovany | Železničná spoločnosť Slovensko, a.s. |
-| RJ 1044 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 7 min | Malacky | RegioJet a. s. |
-| EC 1258 LEO EXPRESS Prešov -> Praha hl.n. | 7 min | Spišské Vlachy | Leo Express s.r.o. |
-| Os 3102 | 7 min | Poriadie | Železničná spoločnosť Slovensko, a.s. |
-| Os 3105 | 7 min | Myjava | Železničná spoločnosť Slovensko, a.s. |
-| Os 7803 | 7 min | Krompachy | Železničná spoločnosť Slovensko, a.s. |
-| EN 477 METROPOL Břeclav -> Budapest-Nyugati | 6 min | Devínska Nová Ves | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1008 REGIOJET Košice -> Praha-Malešice | 27 min | Výh. Paludza | RegioJet a. s. |
+| Ex 600 TATRAN | 20 min | Kráľova Lehota | Železničná spoločnosť Slovensko, a.s. |
+| Ex 502 KRIVÁŇ | 10 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
+| Os 3105 | 9 min | Paprad | Železničná spoločnosť Slovensko, a.s. |
+| EN 477 METROPOL Břeclav -> Budapest-Nyugati | 8 min | Bernolákovo | Železničná spoločnosť Slovensko, a.s. |
+| R 831 URPÍN | 7 min | Sládkovičovo | Železničná spoločnosť Slovensko, a.s. |
+| REX 1763 | 6 min | Krompachy | Železničná spoločnosť Slovensko, a.s. |
+| Os 4705 | 6 min | Bratislava-Vajnory | Železničná spoločnosť Slovensko, a.s. |
+| Os 7803 | 6 min | Kysak | Železničná spoločnosť Slovensko, a.s. |
+| Ex 607 TATRAN | 5 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
 | railjet | 1629 | 19.8 | 68 % | 41 % |
-| rjx | 159 | 10.6 | 89 % | 89 % |
 | SC | 504 | 10.5 | 56 % | 46 % |
-| EN | 960 | 7.7 | 50 % | 43 % |
-| RJ | 2563 | 6.6 | 41 % | 23 % |
-| Ex | 10470 | 6.5 | 41 % | 23 % |
-| EC | 3559 | 4.4 | 25 % | 11 % |
-| REX | 10979 | 4.4 | 20 % | 12 % |
-| R | 16838 | 4.1 | 21 % | 12 % |
-| Os | 69277 | 2.3 | 14 % | 7 % |
+| rjx | 189 | 9.0 | 75 % | 75 % |
+| EN | 1020 | 7.5 | 50 % | 40 % |
+| RJ | 2670 | 6.7 | 41 % | 23 % |
+| Ex | 10719 | 6.4 | 41 % | 22 % |
+| EC | 3670 | 4.3 | 25 % | 11 % |
+| REX | 11310 | 4.3 | 20 % | 12 % |
+| R | 17330 | 4.1 | 21 % | 12 % |
 | Zr | 146 | 2.3 | 20 % | 20 % |
+| Os | 71139 | 2.3 | 14 % | 7 % |
 
 ## Podla dopravcu
 
@@ -45,15 +45,15 @@ Posledny snimok: **25.10.2026 05:59** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|---|---|
 | Ukrajinské železnice - P | 10 | 76.0 | 100 % | 100 % |
 | Ukrajinské železnice - C | 16 | 18.0 | 100 % | 100 % |
-| MÁV-Start Zrt. | 172 | 13.2 | 44 % | 33 % |
-| České dráhy, a.s. | 237 | 8.6 | 50 % | 41 % |
-| RegioJet a.s. | 50 | 7.4 | 60 % | 42 % |
-| RegioJet a. s. | 2601 | 6.2 | 40 % | 22 % |
+| MÁV-Start Zrt. | 182 | 12.6 | 41 % | 31 % |
+| České dráhy, a.s. | 255 | 7.9 | 46 % | 38 % |
+| RegioJet a. s. | 2700 | 6.3 | 40 % | 22 % |
 | ARRIVA vlaky s.r.o. | 169 | 6.1 | 37 % | 22 % |
-| Železničná spoločnosť Slovensko, a.s. | 108112 | 3.7 | 21 % | 11 % |
-| Österreichische Bundesbahnen Personenver | 178 | 2.4 | 11 % | 2 % |
-| Leo Express s.r.o. | 1265 | 2.1 | 15 % | 8 % |
-| Leo Express Slovensko s.r.o. | 4099 | 1.2 | 7 % | 3 % |
+| RegioJet a.s. | 58 | 4.6 | 52 % | 36 % |
+| Železničná spoločnosť Slovensko, a.s. | 111059 | 3.6 | 20 % | 11 % |
+| Österreichische Bundesbahnen Personenver | 192 | 2.7 | 11 % | 3 % |
+| Leo Express s.r.o. | 1295 | 2.2 | 17 % | 9 % |
+| Leo Express Slovensko s.r.o. | 4215 | 1.2 | 6 % | 3 % |
 | Przewozy Regionalne Sp. z o.o. | 175 | 0.7 | 0 % | 0 % |
 
 ## Podla hodiny dna
@@ -66,6 +66,7 @@ Posledny snimok: **25.10.2026 05:59** (Europe/Bratislava), obdobie: poslednych 2
 | 03:00 | 0.5 | 0 % |
 | 04:00 | 1.0 | 6 % |
 | 05:00 | 1.5 | 11 % |
+| 06:00 | 1.4 | 8 % |
 | 08:00 | 3.0 | 22 % |
 | 09:00 | 3.8 | 24 % |
 | 10:00 | 4.7 | 28 % |
@@ -118,10 +119,10 @@ Posledny snimok: **25.10.2026 05:59** (Europe/Bratislava), obdobie: poslednych 2
 | Vlak | Zaciatok | Koniec | Zmena |
 |---|---|---|---|
 | REX 1784 | 46 | 6 | -40 |
+| RJ 1044 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 0 | -13 | -13 |
 | EC 1216 LEO EXPRESS Bratislava hlavná stanica -> Praha hl.n. | 0 | -12 | -12 |
 | Os 8418 | 0 | -12 | -12 |
 | EC 184 HORNÁD Budapest-Keleti -> Košice | 0 | -11 | -11 |
-| Os 8426 | 0 | -11 | -11 |
 
 ## Vlaky s narusenim prevadzky v obdobi
 
@@ -148,6 +149,7 @@ Posledny snimok: **25.10.2026 05:59** (Europe/Bratislava), obdobie: poslednych 2
 | Vlak | Od | Do |
 |---|---|---|
 | Os 6604 | Utekáč | Poltár |
+| Os 6607 | Poltár | Utekáč |
 
 Vlaky s NAD v celej trase: Os 6102
 
@@ -155,16 +157,16 @@ Vlaky s NAD v celej trase: Os 6102
 
 | Stanica | Vlakov |
 |---|---|
-| Bratislava hlavná stanica | 5 |
-| Košice | 3 |
-| Púchov | 3 |
-| Galanta | 3 |
-| Devínska Nová Ves | 2 |
-| Trnava | 2 |
-| Pezinok | 2 |
-| Trenčianska Teplá | 2 |
-| Potok odb. | 2 |
-| Štúrovo | 2 |
+| Bratislava hlavná stanica | 3 |
+| Trnava | 3 |
+| Prešov | 3 |
+| Svit | 2 |
+| Spišské Vlachy | 2 |
+| Kysak | 2 |
+| Trenčín | 2 |
+| Malacky | 2 |
+| Púchov | 2 |
+| Štúrovo št. hr. | 1 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -172,7 +174,9 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
-| Os 2402 | 52 | 0 |
-| Os 5903 | 35 | 0 |
-| Os 3241 | 27 | 0 |
-| EC 1258 LEO EXPRESS Prešov -> Praha hl.n. | 24 | 7 |
+| Os 2402 | 82 | 0 |
+| Os 5903 | 65 | 0 |
+| Os 3241 | 57 | 0 |
+| Os 8580 | 36 | 1 |
+| Os 4081 | 26 | 0 |
+| Os 5751 | 23 | 0 |
