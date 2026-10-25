@@ -1,23 +1,21 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **25.10.2026 02:57** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1096
+Posledny snimok: **25.10.2026 02:28** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1126
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 6 | 4.0 | 0.5 | 33 % | 33 % | 0 |
+| 4 | 0.2 | 0.0 | 0 % | 0 % | 0 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| R 680 ZEMPLÍN | 12 min | Liptovský Hrádok | Železničná spoločnosť Slovensko, a.s. |
-| EN 442 SLOVAKIA Humenné -> Praha jih | 11 min | Krásno nad Kysucou | Železničná spoločnosť Slovensko, a.s. |
-| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 1 min | Kráľova Lehota | Leo Express s.r.o. |
-| R 681 ZEMPLÍN | 0 min | Vrútky nákladná stanica | Železničná spoločnosť Slovensko, a.s. |
-| RJ 1021 REGIOJET Praha-Malešice -> Košice | 0 min | Čadca št. hr. | RegioJet a. s. |
-| REX 7781  Wien Hbf -> Bratislava-Petržalka | 0 min | Bratislava-Petržalka št. hr. | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1021 REGIOJET Praha-Malešice -> Košice | 1 min | Čadca | RegioJet a. s. |
+| R 680 ZEMPLÍN | 0 min | Kraľovany | Železničná spoločnosť Slovensko, a.s. |
+| R 681 ZEMPLÍN | 0 min | Ružomberok | Železničná spoločnosť Slovensko, a.s. |
+| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 0 min | Svit | Leo Express s.r.o. |
 
 ## Podla kategorie vlaku
 
@@ -26,13 +24,13 @@ Posledny snimok: **25.10.2026 02:57** (Europe/Bratislava), obdobie: poslednych 2
 | railjet | 1629 | 19.8 | 68 % | 41 % |
 | rjx | 155 | 10.9 | 91 % | 91 % |
 | SC | 504 | 10.5 | 56 % | 46 % |
-| EN | 737 | 8.9 | 53 % | 51 % |
-| RJ | 2118 | 6.7 | 42 % | 22 % |
+| EN | 762 | 9.0 | 55 % | 52 % |
 | Ex | 10032 | 6.6 | 43 % | 23 % |
+| RJ | 2148 | 6.6 | 41 % | 22 % |
 | Zr | 70 | 5.2 | 41 % | 41 % |
-| EC | 3213 | 5.0 | 27 % | 12 % |
-| REX | 10230 | 4.6 | 21 % | 13 % |
-| R | 15714 | 4.3 | 22 % | 13 % |
+| EC | 3243 | 4.9 | 27 % | 12 % |
+| REX | 10246 | 4.6 | 21 % | 13 % |
+| R | 15774 | 4.3 | 22 % | 13 % |
 | Os | 62279 | 2.5 | 15 % | 7 % |
 
 ## Podla dopravcu
@@ -42,12 +40,12 @@ Posledny snimok: **25.10.2026 02:57** (Europe/Bratislava), obdobie: poslednych 2
 | Ukrajinské železnice - P | 10 | 76.0 | 100 % | 100 % |
 | Ukrajinské železnice - C | 16 | 18.0 | 100 % | 100 % |
 | MÁV-Start Zrt. | 172 | 13.2 | 44 % | 33 % |
-| České dráhy, a.s. | 201 | 8.9 | 48 % | 38 % |
+| České dráhy, a.s. | 223 | 9.1 | 53 % | 44 % |
 | RegioJet a.s. | 50 | 7.4 | 60 % | 42 % |
-| RegioJet a. s. | 2156 | 6.2 | 40 % | 21 % |
+| RegioJet a. s. | 2186 | 6.1 | 39 % | 20 % |
 | ARRIVA vlaky s.r.o. | 169 | 6.1 | 37 % | 22 % |
-| Železničná spoločnosť Slovensko, a.s. | 98791 | 3.9 | 22 % | 12 % |
-| Leo Express s.r.o. | 1016 | 2.9 | 18 % | 10 % |
+| Železničná spoločnosť Slovensko, a.s. | 98870 | 3.9 | 22 % | 12 % |
+| Leo Express s.r.o. | 1046 | 2.8 | 17 % | 10 % |
 | Österreichische Bundesbahnen Personenver | 165 | 1.7 | 10 % | 0 % |
 | Leo Express Slovensko s.r.o. | 3780 | 1.3 | 6 % | 3 % |
 | Przewozy Regionalne Sp. z o.o. | 155 | 0.8 | 0 % | 0 % |
@@ -58,7 +56,7 @@ Posledny snimok: **25.10.2026 02:57** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|
 | 00:00 | 10.6 | 48 % |
 | 01:00 | 7.6 | 54 % |
-| 02:00 | 4.0 | 33 % |
+| 02:00 | 3.6 | 32 % |
 | 08:00 | 3.0 | 22 % |
 | 09:00 | 3.8 | 24 % |
 | 10:00 | 4.7 | 28 % |
@@ -144,12 +142,10 @@ _ziadne data_
 
 | Stanica | Vlakov |
 |---|---|
-| Krásno nad Kysucou | 1 |
-| Liptovský Hrádok | 1 |
-| Vrútky nákladná stanica | 1 |
-| Čadca št. hr. | 1 |
-| Kráľova Lehota | 1 |
-| Bratislava-Petržalka št. hr. | 1 |
+| Kraľovany | 1 |
+| Ružomberok | 1 |
+| Čadca | 1 |
+| Svit | 1 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -157,7 +153,4 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
-| R 680 ZEMPLÍN | 62 | 12 |
-| R 681 ZEMPLÍN | 60 | 0 |
-| EN 442 SLOVAKIA Humenné -> Praha jih | 59 | 11 |
-| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 59 | 1 |
+| RJ 1021 REGIOJET Praha-Malešice -> Košice | 26 | 1 |
