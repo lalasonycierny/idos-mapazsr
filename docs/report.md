@@ -1,21 +1,26 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **25.10.2026 02:58** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1156
+Posledny snimok: **25.10.2026 03:28** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1186
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 4 | 0.5 | 0.5 | 0 % | 0 % | 0 |
+| 9 | 0.0 | 0 | 0 % | 0 % | 0 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| RJ 1021 REGIOJET Praha-Malešice -> Košice | 2 min | Potok odb. | RegioJet a. s. |
-| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 1 min | Markušovce | Leo Express s.r.o. |
-| R 680 ZEMPLÍN | 0 min | Výhybňa Váh | Železničná spoločnosť Slovensko, a.s. |
-| R 681 ZEMPLÍN | -1 min | Kráľova Lehota | Železničná spoločnosť Slovensko, a.s. |
+| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 3 min | Malá Lodina | Leo Express s.r.o. |
+| RJ 1021 REGIOJET Praha-Malešice -> Košice | 2 min | Ľubochňa | RegioJet a. s. |
+| Os 4700 | 2 min | Palárikovo | Železničná spoločnosť Slovensko, a.s. |
+| REX 1900 | 0 min | Humenné | Železničná spoločnosť Slovensko, a.s. |
+| Os 7461 | 0 min | Mníšek nad Hnilcom | Železničná spoločnosť Slovensko, a.s. |
+| Os 7900 | 0 min | Trstená | Železničná spoločnosť Slovensko, a.s. |
+| Os 8500 | 0 min | Veľký Horeš | Železničná spoločnosť Slovensko, a.s. |
+| R 681 ZEMPLÍN | -3 min | Poprad-Tatry | Železničná spoločnosť Slovensko, a.s. |
+| R 680 ZEMPLÍN | -4 min | Považská Bystrica | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
@@ -26,12 +31,12 @@ Posledny snimok: **25.10.2026 02:58** (Europe/Bratislava), obdobie: poslednych 2
 | SC | 504 | 10.5 | 56 % | 46 % |
 | EN | 762 | 9.0 | 55 % | 52 % |
 | Ex | 10032 | 6.6 | 43 % | 23 % |
-| RJ | 2178 | 6.5 | 41 % | 22 % |
+| RJ | 2208 | 6.5 | 40 % | 22 % |
 | Zr | 70 | 5.2 | 41 % | 41 % |
-| EC | 3273 | 4.9 | 27 % | 12 % |
-| REX | 10246 | 4.6 | 21 % | 13 % |
-| R | 15834 | 4.3 | 21 % | 13 % |
-| Os | 62279 | 2.5 | 15 % | 7 % |
+| EC | 3303 | 4.9 | 27 % | 12 % |
+| REX | 10248 | 4.6 | 21 % | 13 % |
+| R | 15894 | 4.2 | 21 % | 13 % |
+| Os | 62366 | 2.5 | 15 % | 7 % |
 
 ## Podla dopravcu
 
@@ -43,9 +48,9 @@ Posledny snimok: **25.10.2026 02:58** (Europe/Bratislava), obdobie: poslednych 2
 | České dráhy, a.s. | 223 | 9.1 | 53 % | 44 % |
 | RegioJet a.s. | 50 | 7.4 | 60 % | 42 % |
 | ARRIVA vlaky s.r.o. | 169 | 6.1 | 37 % | 22 % |
-| RegioJet a. s. | 2216 | 6.1 | 39 % | 20 % |
-| Železničná spoločnosť Slovensko, a.s. | 98930 | 3.9 | 22 % | 12 % |
-| Leo Express s.r.o. | 1076 | 2.8 | 17 % | 9 % |
+| RegioJet a. s. | 2246 | 6.0 | 38 % | 20 % |
+| Železničná spoločnosť Slovensko, a.s. | 99079 | 3.9 | 22 % | 12 % |
+| Leo Express s.r.o. | 1106 | 2.7 | 16 % | 9 % |
 | Österreichische Bundesbahnen Personenver | 165 | 1.7 | 10 % | 0 % |
 | Leo Express Slovensko s.r.o. | 3780 | 1.3 | 6 % | 3 % |
 | Przewozy Regionalne Sp. z o.o. | 155 | 0.8 | 0 % | 0 % |
@@ -57,6 +62,7 @@ Posledny snimok: **25.10.2026 02:58** (Europe/Bratislava), obdobie: poslednych 2
 | 00:00 | 10.6 | 48 % |
 | 01:00 | 7.6 | 54 % |
 | 02:00 | 3.0 | 26 % |
+| 03:00 | 0.2 | 0 % |
 | 08:00 | 3.0 | 22 % |
 | 09:00 | 3.8 | 24 % |
 | 10:00 | 4.7 | 28 % |
@@ -142,10 +148,15 @@ _ziadne data_
 
 | Stanica | Vlakov |
 |---|---|
-| Výhybňa Váh | 1 |
-| Kráľova Lehota | 1 |
-| Potok odb. | 1 |
-| Markušovce | 1 |
+| Považská Bystrica | 1 |
+| Poprad-Tatry | 1 |
+| Ľubochňa | 1 |
+| Malá Lodina | 1 |
+| Humenné | 1 |
+| Palárikovo | 1 |
+| Mníšek nad Hnilcom | 1 |
+| Trstená | 1 |
+| Veľký Horeš | 1 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
