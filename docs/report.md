@@ -1,43 +1,43 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **26.10.2026 14:35** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1430
+Posledny snimok: **26.10.2026 15:05** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1430
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 162 | 4.9 | 0.0 | 24 % | 13 % | 11 |
+| 163 | 6.2 | 1 | 25 % | 14 % | 13 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| REX 1871 | 59 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
-| R 10718 POVAŽAN | 53 min | Bratislava-Rača | Železničná spoločnosť Slovensko, a.s. |
-| R 747 PONITRAN | 49 min | Nováky | Železničná spoločnosť Slovensko, a.s. |
-| R 10721 POVAŽAN | 48 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
-| Ex 621 TATRAN | 45 min | Trnava | Železničná spoločnosť Slovensko, a.s. |
-| railjet 276 METROPOLITAN Budapest-Nyugati -> Praha jih | 44 min | Bratislava-Vajnory | Železničná spoločnosť Slovensko, a.s. |
-| REX 1872 | 31 min | Sládkovičovo | Železničná spoločnosť Slovensko, a.s. |
-| REX 1873 | 28 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
-| Os 4716 | 28 min | Odb. Močiar | Železničná spoločnosť Slovensko, a.s. |
-| railjet 277 METROPOLITAN Praha jih -> Budapest-Nyugati | 27 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
+| REX 1871 | 74 min | Bernolákovo | Železničná spoločnosť Slovensko, a.s. |
+| railjet 276 METROPOLITAN Budapest-Nyugati -> Praha jih | 66 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
+| R 10721 POVAŽAN | 61 min | Výh. Svätý Jur | Železničná spoločnosť Slovensko, a.s. |
+| R 10718 POVAŽAN | 58 min | Bratislava-Rača | Železničná spoločnosť Slovensko, a.s. |
+| REX 1876 | 57 min | Nové Zámky | Železničná spoločnosť Slovensko, a.s. |
+| Ex 623 TATRAN | 44 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
+| R 750 PONITRAN | 44 min | Prievidza nákladná stanica | Železničná spoločnosť Slovensko, a.s. |
+| Ex 621 TATRAN | 43 min | Nové Mesto nad Váhom | Železničná spoločnosť Slovensko, a.s. |
+| railjet 277 METROPOLITAN Praha jih -> Budapest-Nyugati | 41 min | Senec | Železničná spoločnosť Slovensko, a.s. |
+| R 10723 POVAŽAN | 36 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
-| railjet | 1950 | 31.9 | 78 % | 64 % |
-| RJ | 3131 | 18.6 | 60 % | 52 % |
-| SC | 524 | 9.2 | 46 % | 41 % |
-| Ex | 12610 | 8.8 | 47 % | 33 % |
+| railjet | 1958 | 31.6 | 78 % | 64 % |
+| RJ | 3116 | 17.7 | 59 % | 51 % |
+| SC | 525 | 9.2 | 46 % | 41 % |
+| Ex | 12635 | 8.8 | 48 % | 32 % |
 | EN | 1193 | 8.7 | 47 % | 43 % |
-| EC | 4423 | 6.4 | 35 % | 22 % |
-| R | 21088 | 5.6 | 30 % | 17 % |
+| EC | 4390 | 6.0 | 35 % | 22 % |
+| R | 21195 | 5.9 | 31 % | 17 % |
 | rjx | 205 | 4.3 | 71 % | 0 % |
-| REX | 13760 | 3.7 | 17 % | 10 % |
-| Os | 93910 | 3.1 | 18 % | 9 % |
-| Zr | 438 | -0.0 | 0 % | 0 % |
+| REX | 13807 | 4.0 | 18 % | 11 % |
+| Os | 95014 | 3.0 | 18 % | 9 % |
+| Zr | 498 | 0.1 | 0 % | 0 % |
 
 ## Podla dopravcu
 
@@ -45,15 +45,15 @@ Posledny snimok: **26.10.2026 14:35** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|---|---|
 | Ukrajinské železnice - P | 4 | 70.0 | 100 % | 100 % |
 | RegioJet a.s. | 78 | 29.9 | 67 % | 67 % |
-| RegioJet a. s. | 3143 | 17.9 | 59 % | 51 % |
-| MÁV-Start Zrt. | 221 | 17.2 | 44 % | 34 % |
-| Leo Express s.r.o. | 1421 | 8.7 | 43 % | 28 % |
+| MÁV-Start Zrt. | 224 | 17.0 | 44 % | 34 % |
+| RegioJet a. s. | 3128 | 16.9 | 58 % | 50 % |
+| Leo Express s.r.o. | 1385 | 7.5 | 42 % | 27 % |
 | České dráhy, a.s. | 299 | 7.4 | 40 % | 20 % |
 | Ukrajinské železnice - C | 20 | 5.7 | 45 % | 45 % |
-| Železničná spoločnosť Slovensko, a.s. | 142070 | 4.6 | 24 % | 14 % |
-| Österreichische Bundesbahnen Personenver | 217 | 2.1 | 13 % | 3 % |
-| ARRIVA vlaky s.r.o. | 181 | 1.3 | 0 % | 0 % |
-| Leo Express Slovensko s.r.o. | 5383 | 0.3 | 1 % | 0 % |
+| Železničná spoločnosť Slovensko, a.s. | 143355 | 4.6 | 24 % | 14 % |
+| Österreichische Bundesbahnen Personenver | 216 | 2.1 | 13 % | 3 % |
+| ARRIVA vlaky s.r.o. | 184 | 1.3 | 0 % | 0 % |
+| Leo Express Slovensko s.r.o. | 5448 | 0.3 | 1 % | 0 % |
 | Przewozy Regionalne Sp. z o.o. | 195 | -0.1 | 0 % | 0 % |
 
 ## Podla hodiny dna
@@ -74,8 +74,8 @@ Posledny snimok: **26.10.2026 14:35** (Europe/Bratislava), obdobie: poslednych 2
 | 11:00 | 3.9 | 21 % |
 | 12:00 | 3.5 | 21 % |
 | 13:00 | 3.3 | 19 % |
-| 14:00 | 4.9 | 22 % |
-| 15:00 | 5.8 | 20 % |
+| 14:00 | 4.8 | 23 % |
+| 15:00 | 5.7 | 20 % |
 | 16:00 | 4.6 | 19 % |
 | 17:00 | 5.4 | 27 % |
 | 18:00 | 6.2 | 35 % |
@@ -89,11 +89,11 @@ Posledny snimok: **26.10.2026 14:35** (Europe/Bratislava), obdobie: poslednych 2
 
 | Vlak | Max meskanie | Pozorovani |
 |---|---|---|
-| railjet 277 METROPOLITAN Praha jih -> Budapest-Nyugati | 126 min | 185 |
-| RJ 1048 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 121 min | 56 |
+| railjet 277 METROPOLITAN Praha jih -> Budapest-Nyugati | 126 min | 156 |
+| RJ 1048 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 121 min | 27 |
 | REX 1969 | 117 min | 194 |
 | Os 8336 | 97 min | 83 |
-| EC 1216 LEO EXPRESS Bratislava hlavná stanica -> Praha hl.n. | 85 min | 57 |
+| EC 1216 LEO EXPRESS Bratislava hlavná stanica -> Praha hl.n. | 85 min | 28 |
 | Os 7827 | 82 min | 159 |
 | Os 5502 | 81 min | 152 |
 | Os 7834 | 81 min | 177 |
@@ -110,20 +110,20 @@ Posledny snimok: **26.10.2026 14:35** (Europe/Bratislava), obdobie: poslednych 2
 | Os 7834 | 0 | 80 | +80 |
 | Os 7856 | 0 | 78 | +78 |
 | REX 1764 | 0 | 78 | +78 |
+| REX 1871 | 0 | 74 | +74 |
 | RJ 1222 REGIOJET Košice -> Čop UA | 0 | 70 | +70 |
+| railjet 276 METROPOLITAN Budapest-Nyugati -> Praha jih | 0 | 66 | +66 |
 | railjet 175 HUNGARIA Hamburg-Altona DE -> Budapest-Nyugati | 0 | 64 | +64 |
-| REX 1871 | 0 | 59 | +59 |
-| R 742 PONITRAN | 0 | 56 | +56 |
 
 ### Vlaky, ktore meskanie najviac dobehli
 
 | Vlak | Zaciatok | Koniec | Zmena |
 |---|---|---|---|
 | Os 6706 | 74 | 30 | -44 |
-| Os 7823 | 20 | 4 | -16 |
+| Os 7823 | 23 | 4 | -19 |
 | RJ 1044 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 0 | -16 | -16 |
-| REX 1784 | 12 | -2 | -14 |
-| Os 8001 | 11 | 0 | -11 |
+| EC 1216 LEO EXPRESS Bratislava hlavná stanica -> Praha hl.n. | 85 | 70 | -15 |
+| REX 1784 | 10 | -2 | -12 |
 
 ## Vlaky s narusenim prevadzky v obdobi
 
@@ -133,40 +133,39 @@ Posledny snimok: **26.10.2026 14:35** (Europe/Bratislava), obdobie: poslednych 2
 | Os 7856 | 76 |
 | Os 7834 | 70 |
 | R 742 PONITRAN | 63 |
+| REX 1871 | 63 |
 | REX 1764 | 61 |
 | railjet 272 METROPOLITAN Budapest-Nyugati -> Praha jih | 59 |
 | R 747 PONITRAN | 58 |
-| REX 1871 | 54 |
+| railjet 276 METROPOLITAN Budapest-Nyugati -> Praha jih | 57 |
+| R 10718 POVAŽAN | 53 |
+| R 10721 POVAŽAN | 53 |
 | Os 5386 | 48 |
+| R 750 PONITRAN | 48 |
 | Ex 651 TATRAN | 45 |
-| railjet 277 METROPOLITAN Praha jih -> Budapest-Nyugati | 44 |
 | Os 6706 | 43 |
-| Os 2635 | 42 |
-| R 10721 POVAŽAN | 42 |
-| Os 4712 | 41 |
 
 ## Nahradna autobusova doprava (aktualne)
 
 | Vlak | Od | Do |
 |---|---|---|
 | Os 6620 | Utekáč | Poltár |
-
-Vlaky s NAD v celej trase: Os 6118
+| Os 6623 | Poltár | Utekáč |
 
 ## Najviac vlakov pri jednej stanici (teraz)
 
 | Stanica | Vlakov |
 |---|---|
-| Bratislava hlavná stanica | 6 |
-| Trnava | 5 |
-| Banská Bystrica | 3 |
-| Púchov | 3 |
-| Rimavská Sobota | 3 |
-| Humenné | 3 |
-| Žilina | 2 |
-| Bratislava-Rača | 2 |
-| Krompachy | 2 |
-| Výh Gánovce | 2 |
+| Bratislava hlavná stanica | 5 |
+| Kostoľany nad Hornádom | 4 |
+| Markušovce | 3 |
+| Chynorany | 3 |
+| Michaľany | 3 |
+| Nové Zámky | 3 |
+| Kúty | 3 |
+| Pezinok | 3 |
+| Čadca | 3 |
+| Galanta | 3 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -174,15 +173,8 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
-| Os 2421 | 2953 | 0 |
-| Os 4716 | 83 | 28 |
-| railjet 276 METROPOLITAN Budapest-Nyugati -> Praha jih | 46 | 44 |
-| Os 7254 | 25 | 2 |
-| Os 2021 | 23 | 0 |
-| REX 1787 | 22 | 8 |
-| Os 2714  Myjava -> Velká nad Veličkou | 22 | 3 |
-| R 10718 POVAŽAN | 22 | 53 |
-| REX 1872 | 21 | 31 |
-| Os 5919 | 21 | 0 |
-| Os 7455 | 21 | 0 |
-| Os 3567 | 20 | 4 |
+| Os 4716 | 114 | 28 |
+| Ex 623 TATRAN | 52 | 44 |
+| R 10718 POVAŽAN | 52 | 58 |
+| Ex 610 TATRAN | 35 | 28 |
+| Os 3521 | 21 | 5 |
