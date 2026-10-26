@@ -1,43 +1,43 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **26.10.2026 03:30** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1371
+Posledny snimok: **26.10.2026 04:00** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1371
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 10 | 6.8 | 1.0 | 30 % | 30 % | 0 |
+| 40 | 1.6 | 0.0 | 8 % | 5 % | 1 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| RJ 1021 REGIOJET Praha-Malešice -> Košice | 38 min | Výhybňa Váh | RegioJet a. s. |
-| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 12 min | Výh. Ružín | Leo Express s.r.o. |
-| R 680 ZEMPLÍN | 11 min | Bytča | Železničná spoločnosť Slovensko, a.s. |
-| Os 4700 | 5 min | Palárikovo | Železničná spoločnosť Slovensko, a.s. |
-| R 681 ZEMPLÍN | 2 min | Svit | Železničná spoločnosť Slovensko, a.s. |
-| REX 1900 | 0 min | Humenné | Železničná spoločnosť Slovensko, a.s. |
-| Os 4001 | 0 min | Makov | Železničná spoločnosť Slovensko, a.s. |
-| Os 7461 | 0 min | Prakovce | Železničná spoločnosť Slovensko, a.s. |
-| Os 7900 | 0 min | Trstená | Železničná spoločnosť Slovensko, a.s. |
-| Os 8500 | 0 min | Veľký Horeš | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1021 REGIOJET Praha-Malešice -> Košice | 40 min | Kraľovany | RegioJet a. s. |
+| R 680 ZEMPLÍN | 14 min | Púchov | Železničná spoločnosť Slovensko, a.s. |
+| R 681 ZEMPLÍN | 7 min | Vydrník | Železničná spoločnosť Slovensko, a.s. |
+| Os 4700 | 4 min | Galanta | Železničná spoločnosť Slovensko, a.s. |
+| REX 1900 | 2 min | Michalovce | Železničná spoločnosť Slovensko, a.s. |
+| R 10700 POVAŽAN | 2 min | Výh. Potvorice | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1008 REGIOJET Košice -> Praha-Malešice | 0 min | Kostoľany nad Hornádom | RegioJet a. s. |
+| REX 1800 | 0 min | Lužianky | Železničná spoločnosť Slovensko, a.s. |
+| REX 1941 | 0 min | Lipany | Železničná spoločnosť Slovensko, a.s. |
+| Os 2000 | 0 min | Bratislava hlavná stanica | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
 | railjet | 1805 | 33.4 | 82 % | 56 % |
-| RJ | 3046 | 14.0 | 51 % | 42 % |
+| RJ | 3048 | 14.3 | 52 % | 43 % |
 | Ex | 11562 | 11.4 | 53 % | 40 % |
 | SC | 469 | 10.3 | 48 % | 45 % |
-| EN | 1166 | 7.5 | 49 % | 30 % |
-| EC | 4130 | 7.4 | 38 % | 25 % |
-| R | 18995 | 5.2 | 27 % | 13 % |
+| EN | 1168 | 7.5 | 49 % | 30 % |
+| EC | 4136 | 7.4 | 39 % | 26 % |
+| R | 19009 | 5.2 | 28 % | 13 % |
 | rjx | 205 | 4.3 | 71 % | 0 % |
-| REX | 12136 | 3.4 | 13 % | 9 % |
-| Os | 75438 | 3.2 | 19 % | 10 % |
-| Zr | 166 | 0.1 | 2 % | 0 % |
+| REX | 12139 | 3.4 | 13 % | 9 % |
+| Os | 75590 | 3.2 | 19 % | 10 % |
+| Zr | 168 | 0.1 | 2 % | 0 % |
 
 ## Podla dopravcu
 
@@ -47,13 +47,13 @@ Posledny snimok: **26.10.2026 03:30** (Europe/Bratislava), obdobie: poslednych 2
 | RegioJet a.s. | 57 | 37.2 | 72 % | 72 % |
 | MÁV-Start Zrt. | 176 | 18.8 | 45 % | 34 % |
 | Ukrajinské železnice - C | 25 | 14.8 | 100 % | 100 % |
-| RegioJet a. s. | 3016 | 13.3 | 50 % | 41 % |
+| RegioJet a. s. | 3018 | 13.6 | 51 % | 42 % |
 | České dráhy, a.s. | 236 | 10.5 | 50 % | 25 % |
-| Leo Express s.r.o. | 1362 | 10.2 | 48 % | 33 % |
-| Železničná spoločnosť Slovensko, a.s. | 119216 | 5.0 | 25 % | 15 % |
+| Leo Express s.r.o. | 1368 | 10.4 | 50 % | 34 % |
+| Železničná spoločnosť Slovensko, a.s. | 119386 | 5.0 | 25 % | 15 % |
 | ARRIVA vlaky s.r.o. | 192 | 2.5 | 14 % | 14 % |
 | Österreichische Bundesbahnen Personenver | 229 | 2.4 | 10 % | 6 % |
-| Leo Express Slovensko s.r.o. | 4421 | 0.4 | 1 % | 0 % |
+| Leo Express Slovensko s.r.o. | 4424 | 0.4 | 1 % | 0 % |
 | Przewozy Regionalne Sp. z o.o. | 182 | 0.1 | 0 % | 0 % |
 
 ## Podla hodiny dna
@@ -63,7 +63,7 @@ Posledny snimok: **26.10.2026 03:30** (Europe/Bratislava), obdobie: poslednych 2
 | 00:00 | 20.5 | 72 % |
 | 01:00 | 17.7 | 80 % |
 | 02:00 | 12.5 | 57 % |
-| 03:00 | 3.7 | 14 % |
+| 03:00 | 5.2 | 26 % |
 | 04:00 | 1.0 | 6 % |
 | 05:00 | 1.5 | 11 % |
 | 06:00 | 1.4 | 10 % |
@@ -122,8 +122,8 @@ Posledny snimok: **26.10.2026 03:30** (Europe/Bratislava), obdobie: poslednych 2
 | REX 1784 | 20 | -2 | -22 |
 | Os 2611 | 27 | 10 | -17 |
 | Os 4715 | 16 | 0 | -16 |
+| EN 443 SLOVAKIA Praha jih -> Humenné | 13 | 0 | -13 |
 | RJ 1044 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 0 | -13 | -13 |
-| Os 8406 | 0 | -12 | -12 |
 
 ## Vlaky s narusenim prevadzky v obdobi
 
@@ -147,22 +147,24 @@ Posledny snimok: **26.10.2026 03:30** (Europe/Bratislava), obdobie: poslednych 2
 
 ## Nahradna autobusova doprava (aktualne)
 
-_ziadne data_
+| Vlak | Od | Do |
+|---|---|---|
+| Os 6600 | Utekáč | Poltár |
 
 ## Najviac vlakov pri jednej stanici (teraz)
 
 | Stanica | Vlakov |
 |---|---|
-| Bytča | 1 |
-| Svit | 1 |
-| Výhybňa Váh | 1 |
-| Výh. Ružín | 1 |
-| Humenné | 1 |
-| Makov | 1 |
-| Palárikovo | 1 |
-| Prakovce | 1 |
-| Trstená | 1 |
-| Veľký Horeš | 1 |
+| Čadca | 2 |
+| Galanta | 2 |
+| Štúrovo | 2 |
+| Púchov | 1 |
+| Vydrník | 1 |
+| Kostoľany nad Hornádom | 1 |
+| Kraľovany | 1 |
+| Lužianky | 1 |
+| Michalovce | 1 |
+| Lipany | 1 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
