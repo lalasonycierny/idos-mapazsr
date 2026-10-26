@@ -1,59 +1,59 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **26.10.2026 06:00** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1371
+Posledny snimok: **26.10.2026 06:31** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1371
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 161 | 2.0 | 0 | 10 % | 4 % | 2 |
+| 167 | 2.3 | 0 | 11 % | 5 % | 6 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| RJ 1021 REGIOJET Praha-Malešice -> Košice | 57 min | Spišská Nová Ves | RegioJet a. s. |
-| R 680 ZEMPLÍN | 30 min | Bratislava-Rača | Železničná spoločnosť Slovensko, a.s. |
-| REX 1761 | 28 min | Margecany | Železničná spoločnosť Slovensko, a.s. |
-| RJ 1008 REGIOJET Košice -> Praha-Malešice | 18 min | Kráľova Lehota | RegioJet a. s. |
-| Ex 600 TATRAN | 16 min | Výh. Lučivná | Železničná spoločnosť Slovensko, a.s. |
-| Os 7870 | 15 min | Poprad-Tatry | Železničná spoločnosť Slovensko, a.s. |
-| EN 477 METROPOL Břeclav -> Budapest-Nyugati | 13 min | Zohor | Železničná spoločnosť Slovensko, a.s. |
-| EC 1258 LEO EXPRESS Prešov -> Praha hl.n. | 8 min | Markušovce | Leo Express s.r.o. |
-| Ex 641 TATRAN | 7 min | Východná | Železničná spoločnosť Slovensko, a.s. |
-| Os 3102 | 7 min | Paprad | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1021 REGIOJET Praha-Malešice -> Košice | 52 min | Krompachy | RegioJet a. s. |
+| Os 5505 | 40 min | Veľké Bielice | Železničná spoločnosť Slovensko, a.s. |
+| RJ 1008 REGIOJET Košice -> Praha-Malešice | 20 min | Ružomberok | RegioJet a. s. |
+| EN 477 METROPOL Břeclav -> Budapest-Nyugati | 17 min | Odb. Močiar | Železničná spoločnosť Slovensko, a.s. |
+| Ex 600 TATRAN | 15 min | Liptovský Hrádok | Železničná spoločnosť Slovensko, a.s. |
+| Os 2005 | 14 min | Malacky | Železničná spoločnosť Slovensko, a.s. |
+| Os 2002 | 13 min | Zohor | Železničná spoločnosť Slovensko, a.s. |
+| Os 3105 | 12 min | Paprad | Železničná spoločnosť Slovensko, a.s. |
+| Ex 502 KRIVÁŇ | 11 min | Spišské Vlachy | Železničná spoločnosť Slovensko, a.s. |
+| REX 1763 | 10 min | Krompachy | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
 | railjet | 1805 | 33.4 | 82 % | 56 % |
-| RJ | 3049 | 15.6 | 53 % | 45 % |
-| Ex | 11620 | 11.3 | 53 % | 40 % |
+| RJ | 3052 | 16.0 | 54 % | 46 % |
+| Ex | 11653 | 11.3 | 53 % | 40 % |
 | SC | 469 | 10.3 | 48 % | 45 % |
-| EC | 4147 | 7.5 | 38 % | 25 % |
-| EN | 1178 | 7.3 | 46 % | 31 % |
-| R | 19377 | 5.3 | 27 % | 13 % |
+| EN | 1178 | 7.5 | 46 % | 34 % |
+| EC | 4152 | 7.5 | 38 % | 25 % |
+| R | 19572 | 5.2 | 27 % | 13 % |
 | rjx | 206 | 4.3 | 71 % | 0 % |
-| REX | 12564 | 3.3 | 13 % | 9 % |
-| Os | 79615 | 3.1 | 18 % | 10 % |
-| Zr | 226 | 0.1 | 2 % | 0 % |
+| REX | 12743 | 3.4 | 13 % | 9 % |
+| Os | 81012 | 3.1 | 18 % | 9 % |
+| Zr | 256 | 0.1 | 2 % | 0 % |
 
 ## Podla dopravcu
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
 | Ukrajinské železnice - P | 6 | 45.0 | 100 % | 100 % |
-| RegioJet a.s. | 57 | 37.2 | 72 % | 72 % |
-| MÁV-Start Zrt. | 185 | 17.9 | 43 % | 32 % |
-| RegioJet a. s. | 3019 | 14.9 | 52 % | 44 % |
+| RegioJet a.s. | 57 | 36.8 | 72 % | 72 % |
+| MÁV-Start Zrt. | 192 | 17.5 | 47 % | 31 % |
+| RegioJet a. s. | 3022 | 15.4 | 53 % | 45 % |
 | Ukrajinské železnice - C | 25 | 14.8 | 100 % | 100 % |
-| České dráhy, a.s. | 235 | 10.6 | 50 % | 26 % |
-| Leo Express s.r.o. | 1375 | 10.5 | 49 % | 34 % |
-| Železničná spoločnosť Slovensko, a.s. | 124068 | 4.9 | 24 % | 14 % |
-| ARRIVA vlaky s.r.o. | 192 | 2.5 | 14 % | 14 % |
-| Österreichische Bundesbahnen Personenver | 234 | 1.6 | 7 % | 3 % |
-| Leo Express Slovensko s.r.o. | 4680 | 0.4 | 1 % | 0 % |
+| České dráhy, a.s. | 225 | 11.1 | 52 % | 27 % |
+| Leo Express s.r.o. | 1375 | 10.4 | 48 % | 33 % |
+| Železničná spoločnosť Slovensko, a.s. | 125808 | 4.9 | 24 % | 14 % |
+| ARRIVA vlaky s.r.o. | 204 | 2.4 | 13 % | 13 % |
+| Österreichische Bundesbahnen Personenver | 223 | 1.5 | 7 % | 3 % |
+| Leo Express Slovensko s.r.o. | 4781 | 0.4 | 1 % | 0 % |
 | Przewozy Regionalne Sp. z o.o. | 180 | 0.0 | 0 % | 0 % |
 
 ## Podla hodiny dna
@@ -66,7 +66,7 @@ Posledny snimok: **26.10.2026 06:00** (Europe/Bratislava), obdobie: poslednych 2
 | 03:00 | 5.2 | 26 % |
 | 04:00 | 1.4 | 6 % |
 | 05:00 | 1.7 | 9 % |
-| 06:00 | 1.5 | 10 % |
+| 06:00 | 1.9 | 11 % |
 | 07:00 | 3.1 | 16 % |
 | 08:00 | 3.4 | 15 % |
 | 09:00 | 3.9 | 19 % |
@@ -120,10 +120,10 @@ Posledny snimok: **26.10.2026 06:00** (Europe/Bratislava), obdobie: poslednych 2
 | Vlak | Zaciatok | Koniec | Zmena |
 |---|---|---|---|
 | REX 1784 | 20 | -2 | -22 |
-| RJ 1044 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 7 | -13 | -20 |
 | Os 2611 | 27 | 10 | -17 |
 | Os 4715 | 16 | 0 | -16 |
-| Ex 600 TATRAN | 18 | 4 | -14 |
+| RJ 1044 REGIOJET Bratislava hlavná stanica -> Praha-Malešice | 0 | -16 | -16 |
+| Ex 600 TATRAN | 19 | 4 | -15 |
 
 ## Vlaky s narusenim prevadzky v obdobi
 
@@ -150,21 +150,24 @@ Posledny snimok: **26.10.2026 06:00** (Europe/Bratislava), obdobie: poslednych 2
 | Vlak | Od | Do |
 |---|---|---|
 | Os 6604 | Utekáč | Poltár |
+| Os 6607 | Poltár | Utekáč |
+
+Vlaky s NAD v celej trase: Os 6105
 
 ## Najviac vlakov pri jednej stanici (teraz)
 
 | Stanica | Vlakov |
 |---|---|
+| Čadca | 5 |
+| Žilina | 4 |
 | Bratislava hlavná stanica | 4 |
-| Nové Zámky | 4 |
-| Košice | 3 |
-| Púchov | 3 |
-| Spišská Nová Ves | 3 |
-| Kúty | 3 |
-| Trenčianska Teplá | 3 |
-| Galanta | 3 |
-| Čata | 3 |
-| Michaľany | 3 |
+| Trnava | 4 |
+| Liptovský Hrádok | 3 |
+| Skalité | 3 |
+| Komárno | 3 |
+| Svit | 2 |
+| Odb. Močiar | 2 |
+| Spišské Vlachy | 2 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
@@ -172,8 +175,11 @@ _Poloha v API je posledna prejdena stanica, preto ide len o orientacny ukazovate
 
 | Vlak | Minut na mieste | Meskanie |
 |---|---|---|
-| Os 8003 | 1456 | 0 |
-| Os 2402 | 1424 | 0 |
-| Os 3241 | 33 | 0 |
-| Os 5803 | 30 | 0 |
-| Os 4005 | 24 | 0 |
+| Os 2405 | 1467 | 0 |
+| Os 3241 | 63 | 0 |
+| Os 5502 | 38 | 0 |
+| Os 6005 | 35 | 0 |
+| Os 4004 | 30 | 0 |
+| Os 5505 | 30 | 40 |
+| Os 2404 | 25 | 0 |
+| Os 7252 | 25 | 0 |
