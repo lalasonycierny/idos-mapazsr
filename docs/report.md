@@ -1,28 +1,30 @@
 # Prevadzka ZSR - report
 
-Posledny snimok: **26.10.2026 02:29** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1371
+Posledny snimok: **26.10.2026 02:59** (Europe/Bratislava), obdobie: poslednych 24 h, snimkov v obdobi: 1371
 
 ## Aktualny stav
 
 | Vlakov | Priemer (min) | Median | Meskanie >5 min | Meskanie >10 min | Narusenia |
 |---|---|---|---|---|---|
-| 4 | 8.5 | 6.5 | 50 % | 25 % | 0 |
+| 6 | 14.8 | 7.5 | 50 % | 50 % | 1 |
 
 ### Najviac meskajuce teraz
 
 | Vlak | Meskanie | Stanica | Dopravca |
 |---|---|---|---|
-| R 680 ZEMPLÍN | 18 min | Ružomberok | Železničná spoločnosť Slovensko, a.s. |
-| RJ 1021 REGIOJET Praha-Malešice -> Košice | 9 min | Čadca | RegioJet a. s. |
-| R 681 ZEMPLÍN | 4 min | Ružomberok | Železničná spoločnosť Slovensko, a.s. |
-| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 3 min | Poprad-Tatry | Leo Express s.r.o. |
+| RJ 1021 REGIOJET Praha-Malešice -> Košice | 56 min | Kysucké Nové Mesto | RegioJet a. s. |
+| R 680 ZEMPLÍN | 18 min | Vrútky | Železničná spoločnosť Slovensko, a.s. |
+| EC 1263 LEO EXPRESS Praha hl.n. -> Prešov | 11 min | Vydrník | Leo Express s.r.o. |
+| R 681 ZEMPLÍN | 4 min | Liptovský Hrádok | Železničná spoločnosť Slovensko, a.s. |
+| Os 7461 | 0 min | Nálepkovo | Železničná spoločnosť Slovensko, a.s. |
+| Os 8500 | 0 min | Čierna nad Tisou | Železničná spoločnosť Slovensko, a.s. |
 
 ## Podla kategorie vlaku
 
 |  | Pozorovani | Priem. meskanie | >5 min | >10 min |
 |---|---|---|---|---|
 | railjet | 1805 | 33.4 | 82 % | 56 % |
-| RJ | 3046 | 13.5 | 49 % | 41 % |
+| RJ | 3046 | 13.6 | 50 % | 41 % |
 | Ex | 11562 | 11.4 | 53 % | 40 % |
 | SC | 469 | 10.3 | 48 % | 45 % |
 | EN | 1166 | 7.5 | 49 % | 30 % |
@@ -30,7 +32,7 @@ Posledny snimok: **26.10.2026 02:29** (Europe/Bratislava), obdobie: poslednych 2
 | R | 18995 | 5.2 | 27 % | 13 % |
 | rjx | 205 | 4.3 | 71 % | 0 % |
 | REX | 12135 | 3.4 | 13 % | 9 % |
-| Os | 75434 | 3.2 | 19 % | 10 % |
+| Os | 75437 | 3.2 | 19 % | 10 % |
 | Zr | 166 | 0.1 | 2 % | 0 % |
 
 ## Podla dopravcu
@@ -41,10 +43,10 @@ Posledny snimok: **26.10.2026 02:29** (Europe/Bratislava), obdobie: poslednych 2
 | RegioJet a.s. | 57 | 37.2 | 72 % | 72 % |
 | MÁV-Start Zrt. | 176 | 18.8 | 45 % | 34 % |
 | Ukrajinské železnice - C | 25 | 14.8 | 100 % | 100 % |
-| RegioJet a. s. | 3016 | 12.8 | 48 % | 39 % |
+| RegioJet a. s. | 3016 | 12.9 | 49 % | 40 % |
 | České dráhy, a.s. | 236 | 10.5 | 50 % | 25 % |
-| Leo Express s.r.o. | 1362 | 9.8 | 44 % | 30 % |
-| Železničná spoločnosť Slovensko, a.s. | 119211 | 5.0 | 25 % | 15 % |
+| Leo Express s.r.o. | 1362 | 10.0 | 46 % | 30 % |
+| Železničná spoločnosť Slovensko, a.s. | 119214 | 5.0 | 25 % | 15 % |
 | ARRIVA vlaky s.r.o. | 192 | 2.5 | 14 % | 14 % |
 | Österreichische Bundesbahnen Personenver | 229 | 2.4 | 10 % | 6 % |
 | Leo Express Slovensko s.r.o. | 4421 | 0.4 | 1 % | 0 % |
@@ -56,7 +58,7 @@ Posledny snimok: **26.10.2026 02:29** (Europe/Bratislava), obdobie: poslednych 2
 |---|---|---|
 | 00:00 | 20.5 | 72 % |
 | 01:00 | 17.7 | 80 % |
-| 02:00 | 8.0 | 28 % |
+| 02:00 | 12.5 | 57 % |
 | 03:00 | 0.5 | 0 % |
 | 04:00 | 1.0 | 6 % |
 | 05:00 | 1.5 | 11 % |
@@ -147,9 +149,12 @@ _ziadne data_
 
 | Stanica | Vlakov |
 |---|---|
-| Ružomberok | 2 |
-| Čadca | 1 |
-| Poprad-Tatry | 1 |
+| Vrútky | 1 |
+| Liptovský Hrádok | 1 |
+| Kysucké Nové Mesto | 1 |
+| Vydrník | 1 |
+| Nálepkovo | 1 |
+| Čierna nad Tisou | 1 |
 
 ## Vlaky bez zmeny polohy >= 20 min
 
