@@ -8,6 +8,7 @@ Pouzitie:
   python zsr_monitor.py report --hours 24     # markdown report -> docs/report.md
   python zsr_monitor.py map                   # mapa + grafy (zivy snimok) -> docs/index.html
   python zsr_monitor.py publish               # report + mapa + git commit + push
+  python zsr_monitor.py ci                    # jeden beh pre GitHub Actions
 """
 import argparse
 import json
@@ -108,6 +109,7 @@ CREATE TABLE IF NOT EXISTS observations(
   cas_plan TEXT, order_in_station INTEGER, confirmed_dep INTEGER);
 CREATE INDEX IF NOT EXISTS ix_obs_key_ts ON observations(train_key, ts);
 CREATE INDEX IF NOT EXISTS ix_obs_ts ON observations(ts);
+CREATE TABLE IF NOT EXISTS kv(k TEXT PRIMARY KEY, v TEXT);
 """
 
 
@@ -805,15 +807,39 @@ def git_publish(paths, message):
     return True
 
 
+def write_site(conn, trains, hours):
+    """Zapise docs/report.md a docs/index.html (bez gitu)."""
+    os.makedirs("docs", exist_ok=True)
+    with open("docs/report.md", "w", encoding="utf-8") as f:
+        f.write(build_report(conn, hours))
+    build_map(trains, "docs/index.html", with_routes=False, conn=conn, hours=hours)
+
+
 def publish(conn, args, trains=None):
     if trains is None:
         trains, _ = fetch_trains()
-    os.makedirs("docs", exist_ok=True)
-    with open("docs/report.md", "w", encoding="utf-8") as f:
-        f.write(build_report(conn, args.hours))
-    build_map(trains, "docs/index.html", with_routes=False, conn=conn, hours=args.hours)
+    write_site(conn, trains, args.hours)
     stamp = datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
     return git_publish(["docs"], f"Aktualizacia reportu a mapy {stamp}")
+
+
+def run_ci(conn, hours, keep_days):
+    """Jeden beh pre GitHub Actions: snimok + upozornenia + prune + docs (bez gitu)."""
+    trains, _ = fetch_trains()
+    sid, ts = store_snapshot(conn, trains)
+    log.info("Snimok %s: %d vlakov", sid, len(trains))
+    row = conn.execute("SELECT v FROM kv WHERE k='alert_state'").fetchone()
+    if row:
+        try:
+            _alert_state.update(json.loads(row["v"]))
+        except ValueError:
+            pass
+    check_alerts(trains)
+    conn.execute("INSERT OR REPLACE INTO kv(k, v) VALUES('alert_state', ?)", (json.dumps(_alert_state),))
+    conn.commit()
+    prune(conn, keep_days)
+    conn.execute("VACUUM")
+    write_site(conn, trains, hours)
 
 
 # --------------------------------------------------------------------------
@@ -839,6 +865,9 @@ def main():
     m.add_argument("--routes", action="store_true", help="vykreslit aj trasy (velky subor)")
     m.add_argument("--hours", type=int, default=24)
     m.add_argument("--out", default="docs/index.html")
+    ci = sub.add_parser("ci", help="jeden beh pre GitHub Actions (bez gitu)")
+    ci.add_argument("--hours", type=int, default=24)
+    ci.add_argument("--keep-days", type=int, default=int(cfg("ZSR_KEEP_DAYS", "7")))
     pb = sub.add_parser("publish")
     pb.add_argument("--hours", type=int, default=24)
     args = p.parse_args()
@@ -875,6 +904,8 @@ def main():
             trains, _ = fetch_trains()
             n = build_map(trains, args.out, args.routes, conn=conn, hours=args.hours)
             log.info("Mapa ulozena: %s (%d vlakov)", args.out, n)
+        elif args.cmd == "ci":
+            run_ci(conn, args.hours, args.keep_days)
         elif args.cmd == "publish":
             sys.exit(0 if publish(conn, args) else 1)
     except KeyboardInterrupt:
