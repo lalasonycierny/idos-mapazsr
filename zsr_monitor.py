@@ -47,7 +47,8 @@ def load_env(path=".env"):
 
 
 def cfg(name, default=""):
-    return os.environ.get(name, default)
+    v = os.environ.get(name, default)
+    return v if v != "" else default
 
 
 # --------------------------------------------------------------------------
